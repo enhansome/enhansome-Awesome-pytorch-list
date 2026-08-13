@@ -14,7 +14,7 @@
             "last_commit": "2026-08-12T23:11:45Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164027
+            "stars": 164034
           }
         },
         {
@@ -712,7 +712,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9911
+            "stars": 9912
           }
         },
         {
@@ -782,7 +782,7 @@
             "last_commit": "2024-07-10T15:19:34Z",
             "owner": "open-mmlab",
             "repo": "mmdetection3d",
-            "stars": 6501
+            "stars": 6502
           }
         },
         {
@@ -1855,7 +1855,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T21:38:40Z",
+            "last_commit": "2026-08-13T04:40:47Z",
             "owner": "rentruewang",
             "repo": "aioway",
             "stars": 1826
@@ -3450,7 +3450,7 @@
             "last_commit": "2025-09-01T17:21:47Z",
             "owner": "pytorch",
             "repo": "examples",
-            "stars": 24004
+            "stars": 24005
           }
         },
         {
@@ -3548,7 +3548,7 @@
             "last_commit": "2024-07-25T11:01:42Z",
             "owner": "dsgiitr",
             "repo": "d2l-pytorch",
-            "stars": 4361
+            "stars": 4362
           }
         },
         {
@@ -4254,7 +4254,7 @@
             "last_commit": "2026-08-12T23:11:45Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164027
+            "stars": 164034
           }
         },
         {
@@ -9545,7 +9545,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:05:13.909Z",
+    "last_updated": "2026-08-13T06:18:21.711Z",
     "original_repository": "bharathgs/Awesome-pytorch-list",
     "original_repository_sha": "8b9be0839f420b663adb7025281d908d6fba0996",
     "enhanced_repository": "enhansome/enhansome-Awesome-pytorch-list",
