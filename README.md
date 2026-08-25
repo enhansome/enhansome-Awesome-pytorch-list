@@ -128,7 +128,7 @@
 
 1. [ray](https://github.com/ray-project/ray) ⭐ 43,606 | 🐛 3,522 | 🌐 Python | 📅 2026-08-25: A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. ray.io
 2. [pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning) ⭐ 31,305 | 🐛 1,084 | 🌐 Python | 📅 2026-08-09: Rapid research framework for Pytorch. The researcher's version of keras.
-3. [fastai](https://github.com/fastai/fastai) ⭐ 28,121 | 🐛 267 | 🌐 Jupyter Notebook | 📅 2026-08-15: The fast.ai deep learning library, lessons, and tutorials
+3. [fastai](https://github.com/fastai/fastai) ⭐ 28,122 | 🐛 267 | 🌐 Jupyter Notebook | 📅 2026-08-15: The fast.ai deep learning library, lessons, and tutorials
 4. [pytorch\_geometric](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,030 | 🐛 1,310 | 🌐 Python | 📅 2026-08-24: Geometric Deep Learning Extension Library for PyTorch
 5. [dgl](https://github.com/dmlc/dgl) ⭐ 14,281 | 🐛 607 | 🌐 Python | 📅 2025-07-31: Python package built to ease deep learning on graph, on top of existing DL frameworks. <http://dgl.ai>.
 6. [torchgeometry](https://github.com/arraiyopensource/torchgeometry) ⭐ 11,324 | 🐛 99 | 🌐 Python | 📅 2026-08-24: TGM: PyTorch Geometry

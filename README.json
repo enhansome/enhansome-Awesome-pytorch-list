@@ -1403,7 +1403,7 @@
                 "last_commit": "2026-08-15T09:18:08Z",
                 "owner": "fastai",
                 "repo": "fastai",
-                "stars": 28121
+                "stars": 28122
               }
             },
             {
@@ -10179,7 +10179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:33:29.999Z",
+    "last_updated": "2026-08-25T05:46:01.164Z",
     "original_repository": "bharathgs/Awesome-pytorch-list",
     "original_repository_id": 83579167,
     "original_repository_sha": "8b9be0839f420b663adb7025281d908d6fba0996",
