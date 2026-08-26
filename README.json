@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T02:50:58Z",
             "owner": "meta-pytorch",
             "repo": "captum",
-            "stars": 5688
+            "stars": 5691
           }
         },
         {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:31:53Z",
+                "last_commit": "2026-08-26T04:16:12Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164412
+                "stars": 164448
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 200722670,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:35:02Z",
+                "last_commit": "2026-08-26T03:10:39Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18316
+                "stars": 18330
               }
             },
             {
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 259710503,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:57:12Z",
+                "last_commit": "2026-08-25T22:43:42Z",
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11774
+                "stars": 11780
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10462
+                "stars": 10470
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2023-11-09T15:37:59Z",
                 "owner": "mozilla",
                 "repo": "TTS",
-                "stars": 10169
+                "stars": 10167
               }
             },
             {
@@ -134,10 +134,10 @@
                 "archived": false,
                 "id": 114054873,
                 "language": "Python",
-                "last_commit": "2026-08-25T01:21:32Z",
+                "last_commit": "2026-08-26T03:18:59Z",
                 "owner": "espnet",
                 "repo": "espnet",
-                "stars": 9935
+                "stars": 9939
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2025-10-14T17:32:07Z",
                 "owner": "OpenNMT",
                 "repo": "OpenNMT-py",
-                "stars": 7012
+                "stars": 7013
               }
             },
             {
@@ -254,7 +254,7 @@
                 "archived": false,
                 "id": 90321822,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:42:04Z",
+                "last_commit": "2026-08-25T11:41:41Z",
                 "owner": "pytorch",
                 "repo": "audio",
                 "stars": 2927
@@ -407,7 +407,7 @@
                 "last_commit": "2021-05-06T19:38:36Z",
                 "owner": "kamalkraj",
                 "repo": "BERT-NER",
-                "stars": 1248
+                "stars": 1249
               }
             },
             {
@@ -684,7 +684,7 @@
                 "last_commit": "2026-08-19T05:38:53Z",
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34685
+                "stars": 34688
               }
             },
             {
@@ -699,7 +699,7 @@
                 "last_commit": "2024-08-21T02:01:07Z",
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
-                "stars": 32888
+                "stars": 32892
               }
             },
             {
@@ -711,10 +711,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:24:39Z",
+                "last_commit": "2026-08-25T11:41:51Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17879
+                "stars": 17884
               }
             },
             {
@@ -729,7 +729,7 @@
                 "last_commit": "2025-06-25T23:21:43Z",
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15316
+                "stars": 15315
               }
             },
             {
@@ -741,7 +741,7 @@
                 "archived": false,
                 "id": 145693916,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:35:20Z",
+                "last_commit": "2026-08-25T21:24:43Z",
                 "owner": "kornia",
                 "repo": "kornia",
                 "stars": 11324
@@ -774,7 +774,7 @@
                 "last_commit": "2024-08-13T08:53:34Z",
                 "owner": "open-mmlab",
                 "repo": "mmsegmentation",
-                "stars": 9928
+                "stars": 9930
               }
             },
             {
@@ -804,7 +804,7 @@
                 "last_commit": "2025-08-04T07:30:50Z",
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7849
+                "stars": 7851
               }
             },
             {
@@ -834,7 +834,7 @@
                 "last_commit": "2024-08-06T07:19:40Z",
                 "owner": "open-mmlab",
                 "repo": "mmagic",
-                "stars": 7458
+                "stars": 7457
               }
             },
             {
@@ -1370,10 +1370,10 @@
                 "archived": false,
                 "id": 71932349,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:52:42Z",
+                "last_commit": "2026-08-26T00:26:48Z",
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43606
+                "stars": 43611
               }
             },
             {
@@ -1385,10 +1385,10 @@
                 "archived": false,
                 "id": 178626720,
                 "language": "Python",
-                "last_commit": "2026-08-09T12:04:16Z",
+                "last_commit": "2026-08-25T16:59:45Z",
                 "owner": "Lightning-AI",
                 "repo": "pytorch-lightning",
-                "stars": 31305
+                "stars": 31307
               }
             },
             {
@@ -1403,7 +1403,7 @@
                 "last_commit": "2026-08-15T09:18:08Z",
                 "owner": "fastai",
                 "repo": "fastai",
-                "stars": 28122
+                "stars": 28126
               }
             },
             {
@@ -1418,7 +1418,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24030
+                "stars": 24031
               }
             },
             {
@@ -1433,7 +1433,7 @@
                 "last_commit": "2025-07-31T23:53:10Z",
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14281
+                "stars": 14282
               }
             },
             {
@@ -1445,7 +1445,7 @@
                 "archived": false,
                 "id": 145693916,
                 "language": "Python",
-                "last_commit": "2026-08-24T20:35:20Z",
+                "last_commit": "2026-08-25T21:24:43Z",
                 "owner": "kornia",
                 "repo": "kornia",
                 "stars": 11324
@@ -1460,10 +1460,10 @@
                 "archived": false,
                 "id": 308638334,
                 "language": "Python",
-                "last_commit": "2026-08-24T07:56:03Z",
+                "last_commit": "2026-08-26T03:16:45Z",
                 "owner": "huggingface",
                 "repo": "accelerate",
-                "stars": 9832
+                "stars": 9835
               }
             },
             {
@@ -1493,7 +1493,7 @@
                 "last_commit": "2026-08-24T21:31:00Z",
                 "owner": "NVIDIA",
                 "repo": "apex",
-                "stars": 8992
+                "stars": 8993
               }
             },
             {
@@ -1553,7 +1553,7 @@
                 "last_commit": "2025-04-04T01:06:00Z",
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
-                "stars": 6476
+                "stars": 6477
               }
             },
             {
@@ -1613,7 +1613,7 @@
                 "last_commit": "2026-08-24T21:35:41Z",
                 "owner": "NVIDIAGameWorks",
                 "repo": "kaolin",
-                "stars": 5159
+                "stars": 5160
               }
             },
             {
@@ -1733,7 +1733,7 @@
                 "last_commit": "2024-08-09T17:19:10Z",
                 "owner": "POSTECH-CVLab",
                 "repo": "PyTorch-StudioGAN",
-                "stars": 3486
+                "stars": 3487
               }
             },
             {
@@ -1748,7 +1748,7 @@
                 "last_commit": "2026-03-30T21:27:28Z",
                 "owner": "microsoft",
                 "repo": "tensorwatch",
-                "stars": 3472
+                "stars": 3471
               }
             },
             {
@@ -1808,7 +1808,7 @@
                 "last_commit": "2026-02-09T14:48:08Z",
                 "owner": "webdataset",
                 "repo": "webdataset",
-                "stars": 3169
+                "stars": 3170
               }
             },
             {
@@ -2000,7 +2000,7 @@
                 "archived": false,
                 "id": 428967501,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:57:38Z",
+                "last_commit": "2026-08-26T05:31:11Z",
                 "owner": "rentruewang",
                 "repo": "aioway",
                 "stars": 1824
@@ -2213,7 +2213,7 @@
                 "last_commit": "2026-05-09T15:51:57Z",
                 "owner": "geoopt",
                 "repo": "geoopt",
-                "stars": 1089
+                "stars": 1091
               }
             },
             {
@@ -2573,7 +2573,7 @@
                 "last_commit": "2020-02-08T05:12:15Z",
                 "owner": "fancompute",
                 "repo": "wavetorch",
-                "stars": 540
+                "stars": 539
               }
             },
             {
@@ -3649,7 +3649,7 @@
             "last_commit": "2026-01-22T04:26:00Z",
             "owner": "labmlai",
             "repo": "annotated_deep_learning_paper_implementations",
-            "stars": 67349
+            "stars": 67354
           }
         },
         {
@@ -3661,10 +3661,10 @@
             "archived": false,
             "id": 168799526,
             "language": "Python",
-            "last_commit": "2026-08-24T23:20:53Z",
+            "last_commit": "2026-08-25T20:08:09Z",
             "owner": "huggingface",
             "repo": "pytorch-image-models",
-            "stars": 37089
+            "stars": 37096
           }
         },
         {
@@ -3694,7 +3694,7 @@
             "last_commit": "2025-09-01T17:21:47Z",
             "owner": "pytorch",
             "repo": "examples",
-            "stars": 24013
+            "stars": 24014
           }
         },
         {
@@ -3706,7 +3706,7 @@
             "archived": false,
             "id": 69709572,
             "language": "Python",
-            "last_commit": "2026-07-31T20:40:43Z",
+            "last_commit": "2026-08-25T21:21:46Z",
             "owner": "pytorch",
             "repo": "tutorials",
             "stars": 9289
@@ -3736,10 +3736,10 @@
             "archived": false,
             "id": 241095326,
             "language": "Python",
-            "last_commit": "2026-08-24T22:19:25Z",
+            "last_commit": "2026-08-26T00:07:36Z",
             "owner": "flwrlabs",
             "repo": "flower",
-            "stars": 7086
+            "stars": 7085
           }
         },
         {
@@ -3814,7 +3814,7 @@
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4099
+            "stars": 4102
           }
         },
         {
@@ -3829,7 +3829,7 @@
             "last_commit": "2021-11-04T22:48:30Z",
             "owner": "higgsfield",
             "repo": "RL-Adventure",
-            "stars": 3178
+            "stars": 3179
           }
         },
         {
@@ -4099,7 +4099,7 @@
             "last_commit": "2025-01-10T15:26:00Z",
             "owner": "stared",
             "repo": "thinking-in-tensors-writing-in-pytorch",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -4552,10 +4552,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-25T04:31:53Z",
+            "last_commit": "2026-08-26T04:16:12Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164412
+            "stars": 164448
           }
         },
         {
@@ -4570,7 +4570,7 @@
             "last_commit": "2025-08-06T17:58:38Z",
             "owner": "junyanz",
             "repo": "pytorch-CycleGAN-and-pix2pix",
-            "stars": 25228
+            "stars": 25232
           }
         },
         {
@@ -4585,7 +4585,7 @@
             "last_commit": "2024-06-18T07:08:31Z",
             "owner": "eriklindernoren",
             "repo": "PyTorch-GAN",
-            "stars": 17446
+            "stars": 17445
           }
         },
         {
@@ -4630,7 +4630,7 @@
             "last_commit": "2026-08-20T20:13:23Z",
             "owner": "ultralytics",
             "repo": "yolov3",
-            "stars": 10595
+            "stars": 10594
           }
         },
         {
@@ -4645,7 +4645,7 @@
             "last_commit": "2024-04-16T07:27:13Z",
             "owner": "jadore801120",
             "repo": "attention-is-all-you-need-pytorch",
-            "stars": 9785
+            "stars": 9784
           }
         },
         {
@@ -4660,7 +4660,7 @@
             "last_commit": "2022-05-17T05:09:30Z",
             "owner": "NVIDIA",
             "repo": "vid2vid",
-            "stars": 8694
+            "stars": 8692
           }
         },
         {
@@ -4690,7 +4690,7 @@
             "last_commit": "2021-04-30T11:50:25Z",
             "owner": "alex-damian",
             "repo": "pulse",
-            "stars": 8022
+            "stars": 8023
           }
         },
         {
@@ -4750,7 +4750,7 @@
             "last_commit": "2024-07-25T10:14:35Z",
             "owner": "p-christ",
             "repo": "Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
-            "stars": 5937
+            "stars": 5938
           }
         },
         {
@@ -4765,7 +4765,7 @@
             "last_commit": "2024-07-25T10:14:35Z",
             "owner": "p-christ",
             "repo": "Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
-            "stars": 5937
+            "stars": 5938
           }
         },
         {
@@ -4785,6 +4785,21 @@
         },
         {
           "node_type": "item",
+          "title": "StarGAN",
+          "description": "StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112133243,
+            "language": "Python",
+            "last_commit": "2021-01-23T15:09:58Z",
+            "owner": "yunjey",
+            "repo": "stargan",
+            "stars": 5296
+          }
+        },
+        {
+          "node_type": "item",
           "title": "tacotron2",
           "description": "Tacotron 2 - PyTorch implementation with faster-than-realtime inference.",
           "children": [],
@@ -4796,21 +4811,6 @@
             "owner": "NVIDIA",
             "repo": "tacotron2",
             "stars": 5296
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StarGAN",
-          "description": "StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 112133243,
-            "language": "Python",
-            "last_commit": "2021-01-23T15:09:58Z",
-            "owner": "yunjey",
-            "repo": "stargan",
-            "stars": 5295
           }
         },
         {
@@ -4855,7 +4855,7 @@
             "last_commit": "2022-03-28T16:33:16Z",
             "owner": "locuslab",
             "repo": "TCN",
-            "stars": 4545
+            "stars": 4547
           }
         },
         {
@@ -4930,7 +4930,7 @@
             "last_commit": "2022-09-21T06:22:01Z",
             "owner": "kimiyoung",
             "repo": "transformer-xl",
-            "stars": 3713
+            "stars": 3714
           }
         },
         {
@@ -4960,7 +4960,7 @@
             "last_commit": "2026-03-30T19:34:57Z",
             "owner": "NVIDIA",
             "repo": "flownet2-pytorch",
-            "stars": 3290
+            "stars": 3289
           }
         },
         {
@@ -5080,22 +5080,7 @@
             "last_commit": "2019-12-25T18:40:00Z",
             "owner": "KupynOrest",
             "repo": "DeblurGAN",
-            "stars": 2639
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pytorch-generative-model-collections",
-          "description": "Collection of generative models in Pytorch version.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 101957429,
-            "language": "Python",
-            "last_commit": "2020-04-12T11:55:29Z",
-            "owner": "znxlwm",
-            "repo": "pytorch-generative-model-collections",
-            "stars": 2627
+            "stars": 2638
           }
         },
         {
@@ -5110,6 +5095,21 @@
             "last_commit": "2023-01-03T01:47:11Z",
             "owner": "sanghyun-son",
             "repo": "EDSR-PyTorch",
+            "stars": 2628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-generative-model-collections",
+          "description": "Collection of generative models in Pytorch version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101957429,
+            "language": "Python",
+            "last_commit": "2020-04-12T11:55:29Z",
+            "owner": "znxlwm",
+            "repo": "pytorch-generative-model-collections",
             "stars": 2627
           }
         },
@@ -5167,7 +5167,7 @@
             "archived": false,
             "id": 242672435,
             "language": "Python",
-            "last_commit": "2026-08-24T21:58:43Z",
+            "last_commit": "2026-08-25T17:35:06Z",
             "owner": "pykeen",
             "repo": "pykeen",
             "stars": 2032
@@ -5485,7 +5485,7 @@
             "last_commit": "2022-08-24T04:29:50Z",
             "owner": "jayleicn",
             "repo": "animeGAN",
-            "stars": 1276
+            "stars": 1277
           }
         },
         {
@@ -5785,7 +5785,7 @@
             "last_commit": "2019-07-12T20:39:41Z",
             "owner": "jacobgil",
             "repo": "pytorch-pruning",
-            "stars": 885
+            "stars": 884
           }
         },
         {
@@ -5800,7 +5800,7 @@
             "last_commit": "2022-10-15T16:07:29Z",
             "owner": "ProGamerGov",
             "repo": "neural-style-pt",
-            "stars": 856
+            "stars": 855
           }
         },
         {
@@ -5905,7 +5905,7 @@
             "last_commit": "2023-01-12T19:39:39Z",
             "owner": "benedekrozemberczki",
             "repo": "SimGNN",
-            "stars": 813
+            "stars": 814
           }
         },
         {
@@ -5950,7 +5950,7 @@
             "last_commit": "2024-09-03T21:48:47Z",
             "owner": "locuslab",
             "repo": "qpth",
-            "stars": 800
+            "stars": 799
           }
         },
         {
@@ -6270,6 +6270,21 @@
         },
         {
           "node_type": "item",
+          "title": "optnet",
+          "description": "This repository is by Brandon Amos and J. Zico Kolter and contains the PyTorch source code to reproduce the experiments in our paper OptNet: Differentiable Optimization as a Layer in Neural Networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83608127,
+            "language": "Python",
+            "last_commit": "2020-03-26T17:17:08Z",
+            "owner": "locuslab",
+            "repo": "optnet",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
           "title": "pytorch-flows",
           "description": "PyTorch implementations of algorithms for density estimation",
           "children": [],
@@ -6281,21 +6296,6 @@
             "owner": "ikostrikov",
             "repo": "pytorch-flows",
             "stars": 589
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "optnet",
-          "description": "This repository is by Brandon Amos and J. Zico Kolter and contains the PyTorch source code to reproduce the experiments in our paper OptNet: Differentiable Optimization as a Layer in Neural Networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 83608127,
-            "language": "Python",
-            "last_commit": "2020-03-26T17:17:08Z",
-            "owner": "locuslab",
-            "repo": "optnet",
-            "stars": 588
           }
         },
         {
@@ -8445,21 +8445,6 @@
         },
         {
           "node_type": "item",
-          "title": "pytorch-prunes",
-          "description": "Pruning neural networks: is it time to nip it in the bud?",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 167957267,
-            "language": "Python",
-            "last_commit": "2019-08-28T15:41:32Z",
-            "owner": "BayesWatch",
-            "repo": "pytorch-prunes",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
           "title": "interaction_network_pytorch",
           "description": "Pytorch Implementation of Interaction Networks for Learning about Objects, Relations and Physics.",
           "children": [],
@@ -8470,6 +8455,21 @@
             "last_commit": "2017-12-27T09:51:53Z",
             "owner": "higgsfield",
             "repo": "interaction_network_pytorch",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-prunes",
+          "description": "Pruning neural networks: is it time to nip it in the bud?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167957267,
+            "language": "Python",
+            "last_commit": "2019-08-28T15:41:32Z",
+            "owner": "BayesWatch",
+            "repo": "pytorch-prunes",
             "stars": 138
           }
         },
@@ -9706,7 +9706,7 @@
             "last_commit": "2026-07-22T04:42:11Z",
             "owner": "ritchieng",
             "repo": "the-incredible-pytorch",
-            "stars": 12632
+            "stars": 12633
           }
         },
         {
@@ -9721,7 +9721,7 @@
             "last_commit": "2026-08-24T11:05:23Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8459
+            "stars": 8460
           }
         },
         {
@@ -9781,7 +9781,7 @@
             "last_commit": "2026-01-09T05:23:24Z",
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4899
+            "stars": 4900
           }
         },
         {
@@ -9796,7 +9796,7 @@
             "last_commit": "2024-04-24T00:40:39Z",
             "owner": "junxiaosong",
             "repo": "AlphaZero_Gomoku",
-            "stars": 3624
+            "stars": 3625
           }
         },
         {
@@ -10179,7 +10179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:46:01.164Z",
+    "last_updated": "2026-08-26T05:36:21.899Z",
     "original_repository": "bharathgs/Awesome-pytorch-list",
     "original_repository_id": 83579167,
     "original_repository_sha": "8b9be0839f420b663adb7025281d908d6fba0996",
