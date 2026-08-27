@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:45:06Z",
+                "last_commit": "2026-08-27T15:57:59Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164498
+                "stars": 164505
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 200722670,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:22:56Z",
+                "last_commit": "2026-08-27T15:46:00Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
                 "stars": 18340
@@ -89,10 +89,10 @@
                 "archived": false,
                 "id": 259710503,
                 "language": "Python",
-                "last_commit": "2026-08-25T22:43:42Z",
+                "last_commit": "2026-08-27T13:48:19Z",
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11784
+                "stars": 11785
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 114054873,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:15:05Z",
+                "last_commit": "2026-08-27T15:11:54Z",
                 "owner": "espnet",
                 "repo": "espnet",
                 "stars": 9943
@@ -197,7 +197,7 @@
                 "last_commit": "2026-07-07T21:35:07Z",
                 "owner": "facebookresearch",
                 "repo": "mmf",
-                "stars": 5634
+                "stars": 5633
               }
             },
             {
@@ -254,7 +254,7 @@
                 "archived": false,
                 "id": 90321822,
                 "language": "Python",
-                "last_commit": "2026-08-26T11:42:17Z",
+                "last_commit": "2026-08-27T15:12:43Z",
                 "owner": "pytorch",
                 "repo": "audio",
                 "stars": 2928
@@ -711,7 +711,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:09:48Z",
+                "last_commit": "2026-08-27T15:12:54Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17885
@@ -729,7 +729,7 @@
                 "last_commit": "2025-06-25T23:21:43Z",
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15316
+                "stars": 15315
               }
             },
             {
@@ -741,10 +741,10 @@
                 "archived": false,
                 "id": 145693916,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:20:41Z",
+                "last_commit": "2026-08-27T15:36:40Z",
                 "owner": "kornia",
                 "repo": "kornia",
-                "stars": 11329
+                "stars": 11330
               }
             },
             {
@@ -756,7 +756,7 @@
                 "archived": false,
                 "id": 217433767,
                 "language": "Python",
-                "last_commit": "2026-08-26T17:50:10Z",
+                "last_commit": "2026-08-27T13:35:35Z",
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
                 "stars": 9956
@@ -804,7 +804,7 @@
                 "last_commit": "2025-08-04T07:30:50Z",
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7856
+                "stars": 7857
               }
             },
             {
@@ -834,7 +834,7 @@
                 "last_commit": "2024-08-06T07:19:40Z",
                 "owner": "open-mmlab",
                 "repo": "mmagic",
-                "stars": 7457
+                "stars": 7458
               }
             },
             {
@@ -879,7 +879,7 @@
                 "last_commit": "2026-03-18T04:04:49Z",
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5142
+                "stars": 5143
               }
             },
             {
@@ -1231,7 +1231,7 @@
                 "last_commit": "2026-08-27T10:37:02Z",
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9042
+                "stars": 9045
               }
             },
             {
@@ -1243,10 +1243,10 @@
                 "archived": false,
                 "id": 142940093,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-26T14:10:34Z",
+                "last_commit": "2026-08-27T15:15:51Z",
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3589
+                "stars": 3590
               }
             },
             {
@@ -1373,7 +1373,7 @@
                 "last_commit": "2026-08-27T03:55:07Z",
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43618
+                "stars": 43622
               }
             },
             {
@@ -1388,7 +1388,7 @@
                 "last_commit": "2026-08-25T16:59:45Z",
                 "owner": "Lightning-AI",
                 "repo": "pytorch-lightning",
-                "stars": 31310
+                "stars": 31311
               }
             },
             {
@@ -1418,7 +1418,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24037
+                "stars": 24038
               }
             },
             {
@@ -1445,10 +1445,10 @@
                 "archived": false,
                 "id": 145693916,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:20:41Z",
+                "last_commit": "2026-08-27T15:36:40Z",
                 "owner": "kornia",
                 "repo": "kornia",
-                "stars": 11329
+                "stars": 11330
               }
             },
             {
@@ -1463,7 +1463,7 @@
                 "last_commit": "2026-08-26T03:16:45Z",
                 "owner": "huggingface",
                 "repo": "accelerate",
-                "stars": 9839
+                "stars": 9840
               }
             },
             {
@@ -1580,7 +1580,7 @@
                 "archived": false,
                 "id": 97533515,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-10T09:21:34Z",
+                "last_commit": "2026-08-27T13:42:14Z",
                 "owner": "skorch-dev",
                 "repo": "skorch",
                 "stars": 6173
@@ -1595,7 +1595,7 @@
                 "archived": false,
                 "id": 97533515,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-10T09:21:34Z",
+                "last_commit": "2026-08-27T13:42:14Z",
                 "owner": "skorch-dev",
                 "repo": "skorch",
                 "stars": 6173
@@ -1808,7 +1808,7 @@
                 "last_commit": "2026-02-09T14:48:08Z",
                 "owner": "webdataset",
                 "repo": "webdataset",
-                "stars": 3170
+                "stars": 3171
               }
             },
             {
@@ -1958,7 +1958,7 @@
                 "last_commit": "2026-05-19T19:53:38Z",
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2128
+                "stars": 2130
               }
             },
             {
@@ -2153,7 +2153,7 @@
                 "last_commit": "2024-04-15T14:20:37Z",
                 "owner": "pytorch",
                 "repo": "hub",
-                "stars": 1433
+                "stars": 1434
               }
             },
             {
@@ -2225,7 +2225,7 @@
                 "archived": false,
                 "id": 83158675,
                 "language": "Python",
-                "last_commit": "2026-08-24T17:24:20Z",
+                "last_commit": "2026-08-27T13:02:25Z",
                 "owner": "MushroomRL",
                 "repo": "mushroom-rl",
                 "stars": 944
@@ -2633,7 +2633,7 @@
                 "last_commit": "2025-09-22T05:50:40Z",
                 "owner": "masa-su",
                 "repo": "pixyz",
-                "stars": 504
+                "stars": 505
               }
             },
             {
@@ -3649,7 +3649,7 @@
             "last_commit": "2026-01-22T04:26:00Z",
             "owner": "labmlai",
             "repo": "annotated_deep_learning_paper_implementations",
-            "stars": 67359
+            "stars": 67361
           }
         },
         {
@@ -3661,10 +3661,10 @@
             "archived": false,
             "id": 168799526,
             "language": "Python",
-            "last_commit": "2026-08-26T23:35:45Z",
+            "last_commit": "2026-08-27T14:45:03Z",
             "owner": "huggingface",
             "repo": "pytorch-image-models",
-            "stars": 37102
+            "stars": 37103
           }
         },
         {
@@ -3736,10 +3736,10 @@
             "archived": false,
             "id": 241095326,
             "language": "Python",
-            "last_commit": "2026-08-27T10:35:49Z",
+            "last_commit": "2026-08-27T16:03:31Z",
             "owner": "flwrlabs",
             "repo": "flower",
-            "stars": 7090
+            "stars": 7091
           }
         },
         {
@@ -3814,7 +3814,7 @@
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4109
+            "stars": 4110
           }
         },
         {
@@ -4552,10 +4552,10 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-27T10:45:06Z",
+            "last_commit": "2026-08-27T15:57:59Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164498
+            "stars": 164505
           }
         },
         {
@@ -4600,7 +4600,7 @@
             "last_commit": "2026-08-13T07:15:26Z",
             "owner": "jacobgil",
             "repo": "pytorch-grad-cam",
-            "stars": 12958
+            "stars": 12959
           }
         },
         {
@@ -4630,7 +4630,7 @@
             "last_commit": "2026-08-20T20:13:23Z",
             "owner": "ultralytics",
             "repo": "yolov3",
-            "stars": 10597
+            "stars": 10598
           }
         },
         {
@@ -5080,7 +5080,7 @@
             "last_commit": "2019-12-25T18:40:00Z",
             "owner": "KupynOrest",
             "repo": "DeblurGAN",
-            "stars": 2638
+            "stars": 2639
           }
         },
         {
@@ -6255,6 +6255,21 @@
         },
         {
           "node_type": "item",
+          "title": "optnet",
+          "description": "This repository is by Brandon Amos and J. Zico Kolter and contains the PyTorch source code to reproduce the experiments in our paper OptNet: Differentiable Optimization as a Layer in Neural Networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83608127,
+            "language": "Python",
+            "last_commit": "2020-03-26T17:17:08Z",
+            "owner": "locuslab",
+            "repo": "optnet",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
           "title": "pspnet-pytorch",
           "description": "PyTorch implementation of PSPNet segmentation network",
           "children": [],
@@ -6266,21 +6281,6 @@
             "owner": "Lextal",
             "repo": "pspnet-pytorch",
             "stars": 590
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "optnet",
-          "description": "This repository is by Brandon Amos and J. Zico Kolter and contains the PyTorch source code to reproduce the experiments in our paper OptNet: Differentiable Optimization as a Layer in Neural Networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 83608127,
-            "language": "Python",
-            "last_commit": "2020-03-26T17:17:08Z",
-            "owner": "locuslab",
-            "repo": "optnet",
-            "stars": 589
           }
         },
         {
@@ -10179,7 +10179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:24:36.906Z",
+    "last_updated": "2026-08-27T16:11:41.749Z",
     "original_repository_info": {
       "archived": false,
       "id": 83579167,

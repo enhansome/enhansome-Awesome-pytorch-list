@@ -26,22 +26,22 @@
 
 ### NLP & Speech Processing:
 
-1. [transformers](https://github.com/huggingface/transformers) ⭐ 164,498 | 🐛 2,407 | 🌐 Python | 📅 2026-08-27: huggingface Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. huggingface.co/transformers
-2. [NeMo](https://github.com/NVIDIA/NeMo) ⭐ 18,340 | 🐛 286 | 🌐 Python | 📅 2026-08-27: Neural Modules: a toolkit for conversational AI nvidia.github.io/NeMo
+1. [transformers](https://github.com/huggingface/transformers) ⭐ 164,505 | 🐛 2,405 | 🌐 Python | 📅 2026-08-27: huggingface Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. huggingface.co/transformers
+2. [NeMo](https://github.com/NVIDIA/NeMo) ⭐ 18,340 | 🐛 287 | 🌐 Python | 📅 2026-08-27: Neural Modules: a toolkit for conversational AI nvidia.github.io/NeMo
 3. [flair](https://github.com/zalandoresearch/flair) ⭐ 14,384 | 🐛 31 | 🌐 Python | 📅 2025-10-27: A very simple framework for state-of-the-art Natural Language Processing (NLP)
 4. [AllenNLP](https://github.com/allenai/allennlp) ⚠️ Archived: An open-source NLP research library, built on PyTorch.
-5. [speechbrain](https://github.com/speechbrain/speechbrain) ⭐ 11,784 | 🐛 177 | 🌐 Python | 📅 2026-08-25: SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch.
+5. [speechbrain](https://github.com/speechbrain/speechbrain) ⭐ 11,785 | 🐛 177 | 🌐 Python | 📅 2026-08-27: SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch.
 6. [pyannote-audio](https://github.com/pyannote/pyannote-audio) ⭐ 10,478 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2026-08-04: Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding
 7. [TTS](https://github.com/mozilla/TTS) ⭐ 10,168 | 🐛 37 | 🌐 Jupyter Notebook | 📅 2023-11-09: Deep learning for Text2Speech
-8. [espnet](https://github.com/espnet/espnet) ⭐ 9,943 | 🐛 62 | 🌐 Python | 📅 2026-08-26: End-to-End Speech Processing Toolkit espnet.github.io/espnet
+8. [espnet](https://github.com/espnet/espnet) ⭐ 9,943 | 🐛 62 | 🌐 Python | 📅 2026-08-27: End-to-End Speech Processing Toolkit espnet.github.io/espnet
 9. [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) ⭐ 7,013 | 🐛 23 | 🌐 Python | 📅 2025-10-14: Open-Source Neural Machine Translation in PyTorch <http://opennmt.net>
 10. [BERT-PyTorch](https://github.com/codertimo/BERT-pytorch) ⭐ 6,527 | 🐛 68 | 🌐 Python | 📅 2023-09-15: Pytorch implementation of Google AI's 2018 BERT, with simple annotation
 11. [pytext](https://github.com/facebookresearch/pytext) ⚠️ Archived: A natural language modeling framework based on PyTorch fb.me/pytextdocs
-12. [pythia](https://github.com/facebookresearch/pythia) ⭐ 5,634 | 🐛 150 | 🌐 Python | 📅 2026-07-07: A software suite for Visual Question Answering
+12. [pythia](https://github.com/facebookresearch/pythia) ⭐ 5,633 | 🐛 150 | 🌐 Python | 📅 2026-07-07: A software suite for Visual Question Answering
 13. [LASER](https://github.com/facebookresearch/LASER) ⚠️ Archived: Language-Agnostic SEntence Representations
 14. [pytorch text](https://github.com/pytorch/text) ⚠️ Archived: Torch text related contents.
 15. [MUSE](https://github.com/facebookresearch/MUSE) ⚠️ Archived: A library for Multilingual Unsupervised or Supervised word Embeddings
-16. [audio](https://github.com/pytorch/audio) ⭐ 2,928 | 🐛 338 | 🌐 Python | 📅 2026-08-26: simple audio I/O for pytorch.
+16. [audio](https://github.com/pytorch/audio) ⭐ 2,928 | 🐛 338 | 🌐 Python | 📅 2026-08-27: simple audio I/O for pytorch.
 17. [neuralcoref](https://github.com/huggingface/neuralcoref) ⭐ 2,892 | 🐛 65 | 🌐 C | 📅 2023-04-13: State-of-the-art coreference resolution based on neural nets and spaCy huggingface.co/coref
 18. [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi) ⭐ 2,404 | 🐛 26 | 🌐 Python | 📅 2022-03-14: pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
 19. [InferSent](https://github.com/facebookresearch/InferSent) ⚠️ Archived: Sentence embeddings (InferSent) and training code for NLI.
@@ -77,16 +77,16 @@
 2. [MMDetection](https://github.com/open-mmlab/mmdetection) ⭐ 32,894 | 🐛 1,960 | 🌐 Python | 📅 2024-08-21: MMDetection is an open source object detection toolbox, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 3. [pytorch vision](https://github.com/pytorch/vision) ⭐ 17,885 | 🐛 1,197 | 🌐 Python | 📅 2026-08-27: Datasets, Transforms and Models specific to Computer Vision.
 4. [albumentations](https://github.com/albu/albumentations) ⚠️ Archived: Fast image augmentation library.
-5. [kornia](https://github.com/arraiyopensource/kornia) ⭐ 11,329 | 🐛 113 | 🌐 Python | 📅 2026-08-27: Differentiable computer vision library.
-6. [pytorch3d](https://github.com/facebookresearch/pytorch3d) ⭐ 9,956 | 🐛 314 | 🌐 Python | 📅 2026-08-26: PyTorch3D is FAIR's library of reusable components for deep learning with 3D data pytorch3d.org
+5. [kornia](https://github.com/arraiyopensource/kornia) ⭐ 11,330 | 🐛 114 | 🌐 Python | 📅 2026-08-27: Differentiable computer vision library.
+6. [pytorch3d](https://github.com/facebookresearch/pytorch3d) ⭐ 9,956 | 🐛 312 | 🌐 Python | 📅 2026-08-27: PyTorch3D is FAIR's library of reusable components for deep learning with 3D data pytorch3d.org
 7. [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) ⭐ 9,931 | 🐛 869 | 🌐 Python | 📅 2024-08-13: MMSegmentation is a semantic segmentation toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 8. [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) ⚠️ Archived: Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
-9. [MMPose](https://github.com/open-mmlab/mmpose) ⭐ 7,856 | 🐛 333 | 🌐 Python | 📅 2025-08-04: MMPose is a pose estimation toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
+9. [MMPose](https://github.com/open-mmlab/mmpose) ⭐ 7,857 | 🐛 333 | 🌐 Python | 📅 2025-08-04: MMPose is a pose estimation toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 10. [face-alignment](https://github.com/1adrianb/face-alignment) ⭐ 7,538 | 🐛 91 | 🌐 Python | 📅 2026-04-06: :fire: 2D and 3D Face alignment library build using pytorch adrianbulat.com
-11. [MMEditing](https://github.com/open-mmlab/mmediting) ⭐ 7,457 | 🐛 69 | 🌐 Jupyter Notebook | 📅 2024-08-06: MMEditing is a image and video editing toolbox, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
+11. [MMEditing](https://github.com/open-mmlab/mmediting) ⭐ 7,458 | 🐛 69 | 🌐 Jupyter Notebook | 📅 2024-08-06: MMEditing is a image and video editing toolbox, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 12. [MMDetection3D](https://github.com/open-mmlab/mmdetection3d) ⭐ 6,519 | 🐛 656 | 🌐 Python | 📅 2024-07-10: MMDetection3D is OpenMMLab's next-generation platform for general 3D object detection, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 13. [facenet-pytorch](https://github.com/timesler/facenet-pytorch) ⭐ 5,162 | 🐛 85 | 🌐 Python | 📅 2025-09-16: Pretrained Pytorch face detection and recognition models ported from davidsandberg/facenet.
-14. [MMAction2](https://github.com/open-mmlab/mmaction2) ⭐ 5,142 | 🐛 319 | 🌐 Python | 📅 2026-03-18: MMAction2 is OpenMMLab's next generation action understanding toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
+14. [MMAction2](https://github.com/open-mmlab/mmaction2) ⭐ 5,143 | 🐛 319 | 🌐 Python | 📅 2026-03-18: MMAction2 is OpenMMLab's next generation action understanding toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 15. [Augmentor](https://github.com/mdbloice/Augmentor) ⭐ 5,133 | 🐛 139 | 🌐 Python | 📅 2024-03-21: Image augmentation library in Python for machine learning. <http://augmentor.readthedocs.io>
 16. [lightly](https://github.com/lightly-ai/lightly) ⭐ 3,798 | 🐛 98 | 🌐 Python | 📅 2026-08-21 - Lightly is a computer vision framework for self-supervised learning.
 17. [image-classification-mobile](https://github.com/osmr/imgclsmob) ⭐ 3,016 | 🐛 14 | 🌐 Python | 📅 2024-09-06: Collection of classification models pretrained on the ImageNet-1K.
@@ -114,8 +114,8 @@
 
 ### Probabilistic/Generative Libraries:
 
-1. [pyro](https://github.com/uber/pyro) ⭐ 9,042 | 🐛 285 | 🌐 Python | 📅 2026-08-27: Deep universal probabilistic programming with Python and PyTorch <http://pyro.ai>
-2. [botorch](https://github.com/pytorch/botorch) ⭐ 3,589 | 🐛 95 | 🌐 Jupyter Notebook | 📅 2026-08-26: Bayesian optimization in PyTorch
+1. [pyro](https://github.com/uber/pyro) ⭐ 9,045 | 🐛 285 | 🌐 Python | 📅 2026-08-27: Deep universal probabilistic programming with Python and PyTorch <http://pyro.ai>
+2. [botorch](https://github.com/pytorch/botorch) ⭐ 3,590 | 🐛 94 | 🌐 Jupyter Notebook | 📅 2026-08-27: Bayesian optimization in PyTorch
 3. [probtorch](https://github.com/probtorch/probtorch) ⭐ 892 | 🐛 14 | 🌐 Python | 📅 2024-05-12: Probabilistic Torch is library for deep generative models that extends PyTorch.
 4. [pro\_gan\_pytorch](https://github.com/akanimax/pro_gan_pytorch) ⭐ 541 | 🐛 5 | 🌐 Python | 📅 2023-10-03: ProGAN package implemented as an extension of PyTorch nn.Module.
 5. [pyvarinf](https://github.com/ctallec/pyvarinf) ⭐ 362 | 🐛 4 | 🌐 Python | 📅 2019-10-12: Python package facilitating the use of Bayesian Deep Learning methods with Variational Inference for PyTorch.
@@ -126,13 +126,13 @@
 
 ### Other libraries:
 
-1. [ray](https://github.com/ray-project/ray) ⭐ 43,618 | 🐛 3,539 | 🌐 Python | 📅 2026-08-27: A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. ray.io
-2. [pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning) ⭐ 31,310 | 🐛 1,081 | 🌐 Python | 📅 2026-08-25: Rapid research framework for Pytorch. The researcher's version of keras.
+1. [ray](https://github.com/ray-project/ray) ⭐ 43,622 | 🐛 3,541 | 🌐 Python | 📅 2026-08-27: A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. ray.io
+2. [pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning) ⭐ 31,311 | 🐛 1,081 | 🌐 Python | 📅 2026-08-25: Rapid research framework for Pytorch. The researcher's version of keras.
 3. [fastai](https://github.com/fastai/fastai) ⭐ 28,126 | 🐛 267 | 🌐 Jupyter Notebook | 📅 2026-08-15: The fast.ai deep learning library, lessons, and tutorials
-4. [pytorch\_geometric](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,037 | 🐛 1,310 | 🌐 Python | 📅 2026-08-24: Geometric Deep Learning Extension Library for PyTorch
+4. [pytorch\_geometric](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,038 | 🐛 1,311 | 🌐 Python | 📅 2026-08-24: Geometric Deep Learning Extension Library for PyTorch
 5. [dgl](https://github.com/dmlc/dgl) ⭐ 14,281 | 🐛 607 | 🌐 Python | 📅 2025-07-31: Python package built to ease deep learning on graph, on top of existing DL frameworks. <http://dgl.ai>.
-6. [torchgeometry](https://github.com/arraiyopensource/torchgeometry) ⭐ 11,329 | 🐛 113 | 🌐 Python | 📅 2026-08-27: TGM: PyTorch Geometry
-7. [accelerate](https://github.com/huggingface/accelerate) ⭐ 9,839 | 🐛 109 | 🌐 Python | 📅 2026-08-26 : A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
+6. [torchgeometry](https://github.com/arraiyopensource/torchgeometry) ⭐ 11,330 | 🐛 114 | 🌐 Python | 📅 2026-08-27: TGM: PyTorch Geometry
+7. [accelerate](https://github.com/huggingface/accelerate) ⭐ 9,840 | 🐛 110 | 🌐 Python | 📅 2026-08-26 : A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 8. [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch) ⭐ 9,099 | 🐛 109 | 🌐 Python | 📅 2022-04-22: The goal of this repo is to help to reproduce research papers results.
 9. [apex](https://github.com/NVIDIA/apex) ⭐ 8,994 | 🐛 770 | 🌐 Python | 📅 2026-08-27: An Experimental PyTorch Extension(will be deprecated at a later point)
 10. [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) ⭐ 8,222 | 🐛 167 | 🌐 Python | 📅 2022-04-08: It contains an op-for-op PyTorch reimplementation of EfficientNet, along with pre-trained models and examples.
@@ -140,8 +140,8 @@
 12. [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE) ⭐ 7,665 | 🐛 68 | 🌐 Python | 📅 2025-03-21: A Collection of Variational Autoencoders (VAE) in PyTorch.
 13. [torchdiffeq](https://github.com/rtqichen/torchdiffeq) ⭐ 6,477 | 🐛 95 | 🌐 Python | 📅 2025-04-04: Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 14. [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) ⭐ 6,339 | 🐛 77 | 🌐 Python | 📅 2025-08-17: The easiest way to use metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
-15. [inferno-sklearn](https://github.com/dnouri/inferno) ⭐ 6,173 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-08-10: A scikit-learn compatible neural network library that wraps pytorch.
-16. [skorch](https://github.com/dnouri/skorch) ⭐ 6,173 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-08-10: A scikit-learn compatible neural network library that wraps pytorch
+15. [inferno-sklearn](https://github.com/dnouri/inferno) ⭐ 6,173 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2026-08-27: A scikit-learn compatible neural network library that wraps pytorch.
+16. [skorch](https://github.com/dnouri/skorch) ⭐ 6,173 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2026-08-27: A scikit-learn compatible neural network library that wraps pytorch
 17. [kaolin](https://github.com/NVIDIAGameWorks/kaolin) ⭐ 5,161 | 🐛 29 | 🌐 Python | 📅 2026-08-24: PyTorch library aimed at accelerating 3D deep learning research
 18. [pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) ⭐ 5,078 | 🐛 84 | 🌐 Python | 📅 2024-07-08: Count the FLOPs of your PyTorch model.
 19. [ignite](https://github.com/pytorch/ignite) ⭐ 4,778 | 🐛 190 | 🌐 Python | 📅 2026-08-17: Ignite is a high-level library to help with training neural networks in PyTorch.
@@ -155,7 +155,7 @@
 27. [ELF](https://github.com/pytorch/ELF) ⚠️ Archived: ELF: a platform for game research.
 28. [Catalyst](https://github.com/catalyst-team/catalyst) ⭐ 3,382 | 🐛 5 | 🌐 Python | 📅 2026-07-08: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 29. [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer) ⭐ 3,171 | 🐛 57 | 🌐 Python | 📅 2024-03-22: Collections of modern optimization algorithms for PyTorch, includes: AccSGD, AdaBound, AdaMod, DiffGrad, Lamb, RAdam, RAdam, Yogi.
-30. [webdataset](https://github.com/tmbdev/webdataset) ⭐ 3,170 | 🐛 139 | 🌐 Python | 📅 2026-02-09: WebDataset is a PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives.
+30. [webdataset](https://github.com/tmbdev/webdataset) ⭐ 3,171 | 🐛 139 | 🌐 Python | 📅 2026-02-09: WebDataset is a PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives.
 31. [spotlight](https://github.com/maciejkula/spotlight) ⭐ 3,043 | 🐛 73 | 🌐 Python | 📅 2022-12-21: Deep recommender models using PyTorch.
 32. [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) ⭐ 2,992 | 🐛 30 | 🌐 Python | 📅 2026-05-30: A temporal extension library for PyTorch Geometric
 33. [MinkowskiEngine](https://github.com/StanfordVL/MinkowskiEngine) ⭐ 2,956 | 🐛 234 | 🌐 Python | 📅 2024-03-05: Minkowski Engine is an auto-diff library for generalized sparse convolutions and high-dimensional sparse tensors.
@@ -165,7 +165,7 @@
 37. [Ax](https://github.com/facebook/Ax) ⭐ 2,793 | 🐛 186 | 🌐 Python | 📅 2026-08-19: Adaptive Experimentation Platform
 38. [RepDistiller](https://github.com/HobbitLong/RepDistiller) ⭐ 2,437 | 🐛 34 | 🌐 Python | 📅 2023-10-16: Contrastive Representation Distillation (CRD), and benchmark of recent knowledge distillation methods
 39. [rlpyt](https://github.com/astooke/rlpyt) ⭐ 2,278 | 🐛 63 | 🌐 Python | 📅 2021-01-04: Reinforcement Learning in PyTorch
-40. [cvxpylayers](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,128 | 🐛 23 | 🌐 Python | 📅 2026-05-19: cvxpylayers is a Python library for constructing differentiable convex optimization layers in PyTorch
+40. [cvxpylayers](https://github.com/cvxgrp/cvxpylayers) ⭐ 2,130 | 🐛 23 | 🌐 Python | 📅 2026-05-19: cvxpylayers is a Python library for constructing differentiable convex optimization layers in PyTorch
 41. [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding) ⭐ 2,044 | 🐛 151 | 🌐 Python | 📅 2024-12-21: PyTorch Deep Texture Encoding Network <http://hangzh.com/PyTorch-Encoding>
 42. [torch-sampling](https://github.com/ncullen93/torchsample) ⭐ 1,880 | 🐛 4 | 🌐 Python | 📅 2024-06-13: This package provides a set of transforms and data structures for sampling from in-memory or out-of-memory data.
 43. [Koila](https://github.com/rentruewang/koila) ⭐ 1,824 | 🐛 32 | 🌐 Python | 📅 2026-08-27: A simple wrapper around pytorch that prevents CUDA out of memory issues.
@@ -178,12 +178,12 @@
 50. [QNNPACK](https://github.com/pytorch/QNNPACK) ⚠️ Archived: Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators.
 51. [torchstat](https://github.com/Swall0w/torchstat) ⭐ 1,500 | 🐛 45 | 🌐 Python | 📅 2023-03-19: Model analyzer in PyTorch.
 52. [redner](https://github.com/BachiLi/redner) ⭐ 1,444 | 🐛 53 | 🌐 NASL | 📅 2022-08-19: A differentiable Monte Carlo path tracer
-53. [hub](https://github.com/pytorch/hub) ⭐ 1,433 | 🐛 56 | 🌐 Python | 📅 2024-04-15: Pytorch Hub is a pre-trained model repository designed to facilitate research reproducibility.
+53. [hub](https://github.com/pytorch/hub) ⭐ 1,434 | 🐛 56 | 🌐 Python | 📅 2024-04-15: Pytorch Hub is a pre-trained model repository designed to facilitate research reproducibility.
 54. [AdverTorch](https://github.com/BorealisAI/advertorch) ⭐ 1,364 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2023-09-14: A Toolbox for Adversarial Robustness (attack/defense/training) Research
 55. [SLM-Lab](https://github.com/kengz/SLM-Lab) ⭐ 1,362 | 🐛 5 | 🌐 Python | 📅 2026-08-20: Modular Deep Reinforcement Learning framework in PyTorch.
 56. [extension-cpp](https://github.com/pytorch/extension-cpp) ⭐ 1,203 | 🐛 53 | 🌐 Python | 📅 2026-01-13: C++ extensions in PyTorch
 57. [geoopt](https://github.com/ferrine/geoopt) ⭐ 1,091 | 🐛 38 | 🌐 Python | 📅 2026-05-09: Riemannian Adaptive Optimization Methods with pytorch optim
-58. [mushroom](https://github.com/AIRLab-POLIMI/mushroom) ⭐ 944 | 🐛 4 | 🌐 Python | 📅 2026-08-24: Python library for Reinforcement Learning experiments.
+58. [mushroom](https://github.com/AIRLab-POLIMI/mushroom) ⭐ 944 | 🐛 4 | 🌐 Python | 📅 2026-08-27: Python library for Reinforcement Learning experiments.
 59. [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement) ⭐ 930 | 🐛 30 | 🌐 C++ | 📅 2022-01-27: Deep reinforcement learning libraries for NVIDIA Jetson TX1/TX2 with PyTorch, OpenAI Gym, and Gazebo robotics simulator.
 60. [pytorch\_cluster](https://github.com/rusty1s/pytorch_cluster) ⭐ 928 | 🐛 21 | 🌐 C++ | 📅 2026-06-05: PyTorch Extension Library of Optimised Graph Cluster Algorithms.
 61. [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl) ⭐ 884 | 🐛 29 | 🌐 Python | 📅 2022-12-27: Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch.
@@ -210,7 +210,7 @@
 82. [pytorch2caffe](https://github.com/longcw/pytorch2caffe) ⭐ 538 | 🐛 25 | 🌐 Python | 📅 2019-05-28: Convert PyTorch model to Caffemodel
 83. [Arnold](https://github.com/glample/Arnold) ⭐ 534 | 🐛 12 | 🌐 Python | 📅 2022-01-20: Arnold - DOOM Agent
 84. [pytorch-cpp-rl](https://github.com/Omegastick/pytorch-cpp-rl) ⚠️ Archived: PyTorch C++ Reinforcement Learning
-85. [pixyz](https://github.com/masa-su/pixyz) ⭐ 504 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-22: a library for developing deep generative models in a more concise, intuitive and extendable way.
+85. [pixyz](https://github.com/masa-su/pixyz) ⭐ 505 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-22: a library for developing deep generative models in a more concise, intuitive and extendable way.
 86. [matchbox](https://github.com/salesforce/matchbox) ⚠️ Archived: Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
 87. [pytorch-hessian-eigenthings](https://github.com/noahgolmant/pytorch-hessian-eigenthings) ⭐ 474 | 🐛 3 | 🌐 Python | 📅 2026-08-09: Efficient PyTorch Hessian eigendecomposition using the Hessian-vector product and stochastic power iteration.
 88. [joint-vae](https://github.com/Schlumberger/joint-vae) ⭐ 469 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-04-02: Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation star2
@@ -284,18 +284,18 @@
 
 ## Tutorials, books, & examples
 
-1. [LabML NN](https://github.com/lab-ml/nn) ⭐ 67,359 | 🐛 32 | 🌐 Python | 📅 2026-01-22: A collection of PyTorch implementations of neural networks architectures and algorithms with side-by-side notes.
-2. [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) ⭐ 37,102 | 🐛 56 | 🌐 Python | 📅 2026-08-26: PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more.
+1. [LabML NN](https://github.com/lab-ml/nn) ⭐ 67,361 | 🐛 32 | 🌐 Python | 📅 2026-01-22: A collection of PyTorch implementations of neural networks architectures and algorithms with side-by-side notes.
+2. [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) ⭐ 37,103 | 🐛 56 | 🌐 Python | 📅 2026-08-27: PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more.
 3. [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,464 | 🐛 89 | 🌐 Python | 📅 2023-08-15: tutorial for researchers to learn deep learning with pytorch.
 4. [pytorch examples](https://github.com/pytorch/examples) ⭐ 24,016 | 🐛 252 | 🌐 Python | 📅 2025-09-01:  A repository showcasing examples of using pytorch
 5. [pytorch tutorials](https://github.com/pytorch/tutorials) ⭐ 9,291 | 🐛 256 | 🌐 Python | 📅 2026-08-26: Various pytorch tutorials.
 6. **[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial) ⭐ 8,464 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2023-03-23**: Build your neural network easy and fast  <https://morvanzhou.github.io/tutorials/>
-7. [Run your PyTorch Example Fedarated with Flower](https://github.com/adap/flower/tree/main/examples/pytorch_from_centralized_to_federated) ⭐ 7,090 | 🐛 392 | 🌐 Python | 📅 2026-08-27: This example demonstrates how an already existing centralized PyTorch machine learning project can be federated with Flower. A Cifar-10 dataset is used together with a convolutional neural network (CNN).
+7. [Run your PyTorch Example Fedarated with Flower](https://github.com/adap/flower/tree/main/examples/pytorch_from_centralized_to_federated) ⭐ 7,091 | 🐛 391 | 🌐 Python | 📅 2026-08-27: This example demonstrates how an already existing centralized PyTorch machine learning project can be federated with Flower. A Cifar-10 dataset is used together with a convolutional neural network (CNN).
 8. [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse) ⭐ 6,810 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2025-06-16: Minicourse in Deep Learning with PyTorch.
 9. [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis) ⭐ 4,613 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-03-27: Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
 10. **[Practical Pytorch](https://github.com/spro/practical-pytorch) ⚠️ Archived**: Tutorials explaining different RNN models
 11. [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) ⭐ 4,361 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2024-07-25: This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch.
-12. [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) ⭐ 4,109 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-05-25: PyTorch4 tutorial of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
+12. [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) ⭐ 4,110 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-05-25: PyTorch4 tutorial of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
 13. [RL-Adventure](https://github.com/higgsfield/RL-Adventure) ⭐ 3,179 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2021-11-04: Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code.
 14. [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) ⭐ 2,944 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2019-10-15 Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ: NLP with Deep Learning)
 15. [code-of-learn-deep-learning-with-pytorch](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch) ⭐ 2,875 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2024-03-04: This is code of book "Learn Deep Learning with PyTorch" item.jd.com/17915495606.html
@@ -361,12 +361,12 @@
 
 ## Paper implementations
 
-1. [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 164,498 | 🐛 2,407 | 🌐 Python | 📅 2026-08-27: PyTorch version of Google AI's BERT model with script to load Google's pre-trained models
+1. [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) ⭐ 164,505 | 🐛 2,405 | 🌐 Python | 📅 2026-08-27: PyTorch version of Google AI's BERT model with script to load Google's pre-trained models
 2. [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) ⭐ 25,234 | 🐛 589 | 🌐 Python | 📅 2025-08-06: PyTorch implementation for both unpaired and paired image-to-image translation.
 3. [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) ⭐ 17,447 | 🐛 142 | 🌐 Python | 📅 2024-06-18: PyTorch implementations of Generative Adversarial Networks.
-4. [grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,958 | 🐛 160 | 🌐 Python | 📅 2026-08-13: Pytorch implementation of Grad-CAM
+4. [grad-cam](https://github.com/jacobgil/pytorch-grad-cam) ⭐ 12,959 | 🐛 160 | 🌐 Python | 📅 2026-08-13: Pytorch implementation of Grad-CAM
 5. [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) ⭐ 11,176 | 🐛 57 | 🌐 Python | 📅 2023-06-07: A Closed-form Solution to Photorealistic Image Stylization
-6. [yolov3](https://github.com/ultralytics/yolov3) ⭐ 10,597 | 🐛 4 | 🌐 Python | 📅 2026-08-20: YOLOv3: Training and inference in PyTorch pjreddie.com/darknet/yolo
+6. [yolov3](https://github.com/ultralytics/yolov3) ⭐ 10,598 | 🐛 4 | 🌐 Python | 📅 2026-08-20: YOLOv3: Training and inference in PyTorch pjreddie.com/darknet/yolo
 7. [attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch) ⭐ 9,783 | 🐛 83 | 🌐 Python | 📅 2024-04-16: A PyTorch implementation of the Transformer model in "Attention is All You Need".<https://github.com/thnkim/OpenFacePytorch> ⭐ 189 | 🐛 5 | 🌐 Python | 📅 2020-02-20
 8. [vid2vid](https://github.com/NVIDIA/vid2vid) ⭐ 8,692 | 🐛 110 | 🌐 Python | 📅 2022-05-17: Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
 9. [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,088 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27: Image restoration with neural networks but without learning.
@@ -396,7 +396,7 @@
 33. [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch) ⚠️ Archived: A pytorch implementation of Detectron. Both training from scratch and inferring directly from pretrained Detectron weights are available.
 34. [ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) ⭐ 2,719 | 🐛 40 | 🌐 Python | 📅 2023-07-06: PyTorch implementation of "Efficient Neural Architecture Search via Parameters Sharing".
 35. **[pytorch-playground](https://github.com/aaron-xichen/pytorch-playground) ⭐ 2,716 | 🐛 11 | 🌐 Python | 📅 2022-11-22: Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)**.
-36. [DeblurGAN](https://github.com/KupynOrest/DeblurGAN) ⭐ 2,638 | 🐛 148 | 🌐 Python | 📅 2019-12-25: Pytorch implementation of the paper DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks.
+36. [DeblurGAN](https://github.com/KupynOrest/DeblurGAN) ⭐ 2,639 | 🐛 148 | 🌐 Python | 📅 2019-12-25: Pytorch implementation of the paper DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks.
 37. [pytorch-generative-model-collections](https://github.com/znxlwm/pytorch-generative-model-collections) ⭐ 2,627 | 🐛 27 | 🌐 Python | 📅 2020-04-12:  Collection of generative models in Pytorch version.
 38. [EDSR-PyTorch](https://github.com/thstkdgus35/EDSR-PyTorch) ⭐ 2,627 | 🐛 142 | 🌐 Python | 📅 2023-01-03: PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)
 39. [pointnet.pytorch](https://github.com/fxia22/pointnet.pytorch) ⭐ 2,355 | 🐛 59 | 🌐 Python | 📅 2023-03-23: pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" <https://arxiv.org/abs/1612.00593>
@@ -475,8 +475,8 @@
 112. [GraphWaveletNeuralNetwork](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork) ⭐ 607 | 🐛 2 | 🌐 Python | 📅 2023-03-18: This is a Pytorch implementation of Graph Wavelet Neural Network. ICLR 2019.
 113. [pytorch-deeplab-resnet](https://github.com/isht7/pytorch-deeplab-resnet) ⭐ 601 | 🐛 14 | 🌐 Python | 📅 2023-09-05: pytorch-deeplab-resnet-model.
 114. [pytorch-made](https://github.com/karpathy/pytorch-made) ⭐ 594 | 🐛 2 | 🌐 Python | 📅 2018-12-08: MADE (Masked Autoencoder Density Estimation) implementation in PyTorch
-115. [pspnet-pytorch](https://github.com/Lextal/pspnet-pytorch) ⭐ 590 | 🐛 17 | 🌐 Python | 📅 2017-10-06: PyTorch implementation of PSPNet segmentation network
-116. [optnet](https://github.com/locuslab/optnet) ⭐ 589 | 🐛 3 | 🌐 Python | 📅 2020-03-26: This repository is by Brandon Amos and J. Zico Kolter and contains the PyTorch source code to reproduce the experiments in our paper OptNet: Differentiable Optimization as a Layer in Neural Networks.
+115. [optnet](https://github.com/locuslab/optnet) ⭐ 590 | 🐛 3 | 🌐 Python | 📅 2020-03-26: This repository is by Brandon Amos and J. Zico Kolter and contains the PyTorch source code to reproduce the experiments in our paper OptNet: Differentiable Optimization as a Layer in Neural Networks.
+116. [pspnet-pytorch](https://github.com/Lextal/pspnet-pytorch) ⭐ 590 | 🐛 17 | 🌐 Python | 📅 2017-10-06: PyTorch implementation of PSPNet segmentation network
 117. [pytorch-flows](https://github.com/ikostrikov/pytorch-flows) ⭐ 589 | 🐛 5 | 🌐 Python | 📅 2021-05-13: PyTorch implementations of algorithms for density estimation
 118. [Neural-IMage-Assessment](https://github.com/kentsyx/Neural-IMage-Assessment) ⭐ 585 | 🐛 24 | 🌐 Python | 📅 2021-11-10: A PyTorch Implementation of Neural IMage Assessment.
 119. [PyTorch-progressive\_growing\_of\_gans](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans) ⭐ 582 | 🐛 29 | 🌐 Python | 📅 2018-02-04: PyTorch implementation of Progressive Growing of GANs for Improved Quality, Stability, and Variation.
