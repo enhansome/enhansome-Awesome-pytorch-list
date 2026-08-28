@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T04:38:41Z",
             "owner": "meta-pytorch",
             "repo": "captum",
-            "stars": 5693
-          }
+            "stars": 5694
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "children": [
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 155220641,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:57:59Z",
+                "last_commit": "2026-08-28T17:07:53Z",
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 164505
-              }
+                "stars": 164566
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 200722670,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:46:00Z",
+                "last_commit": "2026-08-28T17:08:08Z",
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18340
-              }
+                "stars": 18352
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "flairNLP",
                 "repo": "flair",
                 "stars": 14384
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "allenai",
                 "repo": "allennlp",
                 "stars": 11886
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -92,8 +97,9 @@
                 "last_commit": "2026-08-27T13:48:19Z",
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11785
-              }
+                "stars": 11788
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -107,8 +113,9 @@
                 "last_commit": "2026-08-04T17:30:45Z",
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10478
-              }
+                "stars": 10481
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "mozilla",
                 "repo": "TTS",
                 "stars": 10168
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -134,11 +142,12 @@
                 "archived": false,
                 "id": 114054873,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:11:54Z",
+                "last_commit": "2026-08-28T14:18:20Z",
                 "owner": "espnet",
                 "repo": "espnet",
-                "stars": 9943
-              }
+                "stars": 9945
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "OpenNMT",
                 "repo": "OpenNMT-py",
                 "stars": 7013
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "codertimo",
                 "repo": "BERT-pytorch",
                 "stars": 6527
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "facebookresearch",
                 "repo": "pytext",
                 "stars": 6292
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "facebookresearch",
                 "repo": "mmf",
                 "stars": 5633
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "facebookresearch",
                 "repo": "LASER",
                 "stars": 3660
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "pytorch",
                 "repo": "text",
                 "stars": 3554
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "facebookresearch",
                 "repo": "MUSE",
                 "stars": 3244
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -254,11 +270,12 @@
                 "archived": false,
                 "id": 90321822,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:12:43Z",
+                "last_commit": "2026-08-28T15:33:56Z",
                 "owner": "pytorch",
                 "repo": "audio",
-                "stars": 2928
-              }
+                "stars": 2931
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "huggingface",
                 "repo": "neuralcoref",
                 "stars": 2892
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -287,8 +305,9 @@
                 "last_commit": "2022-03-14T05:10:47Z",
                 "owner": "mravanelli",
                 "repo": "pytorch-kaldi",
-                "stars": 2404
-              }
+                "stars": 2405
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "facebookresearch",
                 "repo": "InferSent",
                 "stars": 2280
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "PetrochukM",
                 "repo": "PyTorch-NLP",
                 "stars": 2222
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "lucidrains",
                 "repo": "reformer-pytorch",
                 "stars": 2191
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "nyu-mll",
                 "repo": "jiant",
                 "stars": 1673
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -363,7 +386,8 @@
                 "owner": "google",
                 "repo": "uis-rnn",
                 "stars": 1588
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -378,7 +402,8 @@
                 "owner": "IBM",
                 "repo": "pytorch-seq2seq",
                 "stars": 1515
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -393,7 +418,8 @@
                 "owner": "facebookresearch",
                 "repo": "UnsupervisedMT",
                 "stars": 1499
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -408,7 +434,8 @@
                 "owner": "kamalkraj",
                 "repo": "BERT-NER",
                 "stars": 1249
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -423,7 +450,8 @@
                 "owner": "maum-ai",
                 "repo": "voicefilter",
                 "stars": 1218
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -438,7 +466,8 @@
                 "owner": "harvardnlp",
                 "repo": "pytorch-struct",
                 "stars": 1133
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -453,7 +482,8 @@
                 "owner": "NVIDIA",
                 "repo": "sentiment-discovery",
                 "stars": 1065
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -468,7 +498,8 @@
                 "owner": "vincentherrmann",
                 "repo": "pytorch-wavenet",
                 "stars": 1030
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -483,7 +514,8 @@
                 "owner": "freewym",
                 "repo": "espresso",
                 "stars": 939
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -498,7 +530,8 @@
                 "owner": "facebookarchive",
                 "repo": "loop",
                 "stars": 874
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -513,7 +546,8 @@
                 "owner": "pytorch",
                 "repo": "translate",
                 "stars": 840
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -528,7 +562,8 @@
                 "owner": "awni",
                 "repo": "speech",
                 "stars": 768
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -543,7 +578,8 @@
                 "owner": "asyml",
                 "repo": "texar-pytorch",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -558,7 +594,8 @@
                 "owner": "lium-lst",
                 "repo": "nmtpytorch",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -573,7 +610,8 @@
                 "owner": "Maluuba",
                 "repo": "gensen",
                 "stars": 311
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -588,7 +626,8 @@
                 "owner": "feedly",
                 "repo": "transfer-nlp",
                 "stars": 294
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -603,7 +642,8 @@
                 "owner": "outcastofmusic",
                 "repo": "quick-nlp",
                 "stars": 283
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -618,7 +658,8 @@
                 "owner": "backprop-ai",
                 "repo": "backprop",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -633,7 +674,8 @@
                 "owner": "soobinseo",
                 "repo": "Tacotron-pytorch",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -648,7 +690,8 @@
                 "owner": "enochkan",
                 "repo": "torch-metrics",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -663,7 +706,8 @@
                 "owner": "Sandeep42",
                 "repo": "anuvada",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             }
           ],
           "description": null,
@@ -684,8 +728,9 @@
                 "last_commit": "2026-08-19T05:38:53Z",
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34690
-              }
+                "stars": 34692
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -700,7 +745,8 @@
                 "owner": "open-mmlab",
                 "repo": "mmdetection",
                 "stars": 32894
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -711,11 +757,12 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:12:54Z",
+                "last_commit": "2026-08-28T15:34:09Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17885
-              }
+                "stars": 17887
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -730,7 +777,8 @@
                 "owner": "albumentations-team",
                 "repo": "albumentations",
                 "stars": 15315
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -741,11 +789,12 @@
                 "archived": false,
                 "id": 145693916,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:36:40Z",
+                "last_commit": "2026-08-28T16:16:01Z",
                 "owner": "kornia",
                 "repo": "kornia",
-                "stars": 11330
-              }
+                "stars": 11334
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -759,8 +808,9 @@
                 "last_commit": "2026-08-27T13:35:35Z",
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9956
-              }
+                "stars": 9958
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -774,8 +824,9 @@
                 "last_commit": "2024-08-13T08:53:34Z",
                 "owner": "open-mmlab",
                 "repo": "mmsegmentation",
-                "stars": 9931
-              }
+                "stars": 9933
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -790,7 +841,8 @@
                 "owner": "facebookresearch",
                 "repo": "maskrcnn-benchmark",
                 "stars": 9361
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -804,8 +856,9 @@
                 "last_commit": "2025-08-04T07:30:50Z",
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7857
-              }
+                "stars": 7859
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -820,7 +873,8 @@
                 "owner": "1adrianb",
                 "repo": "face-alignment",
                 "stars": 7538
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -835,7 +889,8 @@
                 "owner": "open-mmlab",
                 "repo": "mmagic",
                 "stars": 7458
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -850,7 +905,8 @@
                 "owner": "open-mmlab",
                 "repo": "mmdetection3d",
                 "stars": 6519
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -865,7 +921,8 @@
                 "owner": "timesler",
                 "repo": "facenet-pytorch",
                 "stars": 5162
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -879,8 +936,9 @@
                 "last_commit": "2026-03-18T04:04:49Z",
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5143
-              }
+                "stars": 5145
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -895,7 +953,8 @@
                 "owner": "mdbloice",
                 "repo": "Augmentor",
                 "stars": 5133
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -906,11 +965,12 @@
                 "archived": false,
                 "id": 303705119,
                 "language": "Python",
-                "last_commit": "2026-08-21T20:54:21Z",
+                "last_commit": "2026-08-28T13:55:27Z",
                 "owner": "lightly-ai",
                 "repo": "lightly",
-                "stars": 3798
-              }
+                "stars": 3800
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -925,7 +985,8 @@
                 "owner": "osmr",
                 "repo": "imgclsmob",
                 "stars": 3016
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -940,7 +1001,8 @@
                 "owner": "donnyyou",
                 "repo": "torchcv",
                 "stars": 2251
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -955,7 +1017,8 @@
                 "owner": "facebookresearch",
                 "repo": "SparseConvNet",
                 "stars": 2145
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -970,7 +1033,8 @@
                 "owner": "zijundeng",
                 "repo": "pytorch-semantic-segmentation",
                 "stars": 1735
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -985,7 +1049,8 @@
                 "owner": "facebookresearch",
                 "repo": "ClassyVision",
                 "stars": 1607
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1000,7 +1065,8 @@
                 "owner": "jonkhler",
                 "repo": "s2cnn",
                 "stars": 971
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1015,7 +1081,8 @@
                 "owner": "perone",
                 "repo": "medicaltorch",
                 "stars": 872
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1030,7 +1097,8 @@
                 "owner": "automan000",
                 "repo": "Convolutional_LSTM_PyTorch",
                 "stars": 814
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1045,7 +1113,8 @@
                 "owner": "MisaOgura",
                 "repo": "flashtorch",
                 "stars": 744
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1060,7 +1129,8 @@
                 "owner": "creafz",
                 "repo": "pytorch-cnn-finetune",
                 "stars": 722
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1075,7 +1145,8 @@
                 "owner": "greentfrapp",
                 "repo": "lucent",
                 "stars": 664
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1090,7 +1161,8 @@
                 "owner": "alankbi",
                 "repo": "detecto",
                 "stars": 627
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1105,7 +1177,8 @@
                 "owner": "ignacio-rocco",
                 "repo": "detectorch",
                 "stars": 559
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1120,7 +1193,8 @@
                 "owner": "longcw",
                 "repo": "RoIAlign.pytorch",
                 "stars": 555
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1135,7 +1209,8 @@
                 "owner": "Media-Smart",
                 "repo": "vedaseg",
                 "stars": 407
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1150,7 +1225,8 @@
                 "owner": "felixgwu",
                 "repo": "img_classification_pk_pytorch",
                 "stars": 372
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1165,7 +1241,8 @@
                 "owner": "thnkim",
                 "repo": "OpenFacePytorch",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1180,7 +1257,8 @@
                 "owner": "s3nh",
                 "repo": "text-detector",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1195,7 +1273,8 @@
                 "owner": "ProGamerGov",
                 "repo": "neural-dream",
                 "stars": 146
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1210,7 +1289,8 @@
                 "owner": "tymokvo",
                 "repo": "pt-styletransfer",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             }
           ],
           "description": null,
@@ -1228,11 +1308,12 @@
                 "archived": false,
                 "id": 94506832,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:37:02Z",
+                "last_commit": "2026-08-27T16:12:12Z",
                 "owner": "pyro-ppl",
                 "repo": "pyro",
                 "stars": 9045
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1246,8 +1327,9 @@
                 "last_commit": "2026-08-27T15:15:51Z",
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3590
-              }
+                "stars": 3589
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1262,7 +1344,8 @@
                 "owner": "probtorch",
                 "repo": "probtorch",
                 "stars": 892
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1277,7 +1360,8 @@
                 "owner": "akanimax",
                 "repo": "pro_gan_pytorch",
                 "stars": 541
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1292,7 +1376,8 @@
                 "owner": "ctallec",
                 "repo": "pyvarinf",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1307,7 +1392,8 @@
                 "owner": "spring-epfl",
                 "repo": "mia",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1322,7 +1408,8 @@
                 "owner": "drckf",
                 "repo": "paysage",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1337,7 +1424,8 @@
                 "owner": "stepelu",
                 "repo": "ptstat",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1352,7 +1440,8 @@
                 "owner": "probprog",
                 "repo": "pyprob",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             }
           ],
           "description": null,
@@ -1370,11 +1459,12 @@
                 "archived": false,
                 "id": 71932349,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:55:07Z",
+                "last_commit": "2026-08-28T16:27:58Z",
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 43622
-              }
+                "stars": 43638
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1388,8 +1478,9 @@
                 "last_commit": "2026-08-25T16:59:45Z",
                 "owner": "Lightning-AI",
                 "repo": "pytorch-lightning",
-                "stars": 31311
-              }
+                "stars": 31315
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1403,8 +1494,9 @@
                 "last_commit": "2026-08-15T09:18:08Z",
                 "owner": "fastai",
                 "repo": "fastai",
-                "stars": 28126
-              }
+                "stars": 28128
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1418,8 +1510,9 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24038
-              }
+                "stars": 24043
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1434,7 +1527,8 @@
                 "owner": "dmlc",
                 "repo": "dgl",
                 "stars": 14281
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1445,11 +1539,12 @@
                 "archived": false,
                 "id": 145693916,
                 "language": "Python",
-                "last_commit": "2026-08-27T15:36:40Z",
+                "last_commit": "2026-08-28T16:16:01Z",
                 "owner": "kornia",
                 "repo": "kornia",
-                "stars": 11330
-              }
+                "stars": 11334
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1463,8 +1558,9 @@
                 "last_commit": "2026-08-26T03:16:45Z",
                 "owner": "huggingface",
                 "repo": "accelerate",
-                "stars": 9840
-              }
+                "stars": 9841
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1479,7 +1575,8 @@
                 "owner": "Cadene",
                 "repo": "pretrained-models.pytorch",
                 "stars": 9099
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1493,8 +1590,9 @@
                 "last_commit": "2026-08-27T07:57:11Z",
                 "owner": "NVIDIA",
                 "repo": "apex",
-                "stars": 8994
-              }
+                "stars": 8995
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1509,7 +1607,8 @@
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
                 "stars": 8222
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1524,7 +1623,8 @@
                 "owner": "lanpa",
                 "repo": "tensorboardX",
                 "stars": 7998
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1538,8 +1638,9 @@
                 "last_commit": "2025-03-21T22:00:34Z",
                 "owner": "AntixK",
                 "repo": "PyTorch-VAE",
-                "stars": 7665
-              }
+                "stars": 7666
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1554,7 +1655,8 @@
                 "owner": "rtqichen",
                 "repo": "torchdiffeq",
                 "stars": 6477
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1569,7 +1671,8 @@
                 "owner": "KevinMusgrave",
                 "repo": "pytorch-metric-learning",
                 "stars": 6339
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1583,8 +1686,9 @@
                 "last_commit": "2026-08-27T13:42:14Z",
                 "owner": "skorch-dev",
                 "repo": "skorch",
-                "stars": 6173
-              }
+                "stars": 6174
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1598,8 +1702,9 @@
                 "last_commit": "2026-08-27T13:42:14Z",
                 "owner": "skorch-dev",
                 "repo": "skorch",
-                "stars": 6173
-              }
+                "stars": 6174
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1614,7 +1719,8 @@
                 "owner": "NVIDIAGameWorks",
                 "repo": "kaolin",
                 "stars": 5161
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1629,7 +1735,8 @@
                 "owner": "Lyken17",
                 "repo": "pytorch-OpCounter",
                 "stars": 5078
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1640,11 +1747,12 @@
                 "archived": false,
                 "id": 111835796,
                 "language": "Python",
-                "last_commit": "2026-08-17T23:45:17Z",
+                "last_commit": "2026-08-28T04:51:54Z",
                 "owner": "pytorch",
                 "repo": "ignite",
-                "stars": 4778
-              }
+                "stars": 4779
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1659,7 +1767,8 @@
                 "owner": "sksq96",
                 "repo": "pytorch-summary",
                 "stars": 4053
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1674,7 +1783,8 @@
                 "owner": "chenyuntc",
                 "repo": "simple-faster-rcnn-pytorch",
                 "stars": 4027
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1689,7 +1799,8 @@
                 "owner": "cornellius-gp",
                 "repo": "gpytorch",
                 "stars": 3906
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1704,7 +1815,8 @@
                 "owner": "cornellius-gp",
                 "repo": "gpytorch",
                 "stars": 3906
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1719,7 +1831,8 @@
                 "owner": "szagoruyko",
                 "repo": "pytorchviz",
                 "stars": 3500
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1734,7 +1847,8 @@
                 "owner": "POSTECH-CVLab",
                 "repo": "PyTorch-StudioGAN",
                 "stars": 3487
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1749,7 +1863,8 @@
                 "owner": "microsoft",
                 "repo": "tensorwatch",
                 "stars": 3471
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1764,7 +1879,8 @@
                 "owner": "pytorch",
                 "repo": "ELF",
                 "stars": 3411
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1779,7 +1895,24 @@
                 "owner": "catalyst-team",
                 "repo": "catalyst",
                 "stars": 3382
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
+            },
+            {
+              "node_type": "item",
+              "title": "webdataset",
+              "description": "WebDataset is a PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201089222,
+                "language": "Python",
+                "last_commit": "2026-02-09T14:48:08Z",
+                "owner": "webdataset",
+                "repo": "webdataset",
+                "stars": 3172
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1794,22 +1927,8 @@
                 "owner": "jettify",
                 "repo": "pytorch-optimizer",
                 "stars": 3171
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "webdataset",
-              "description": "WebDataset is a PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 201089222,
-                "language": "Python",
-                "last_commit": "2026-02-09T14:48:08Z",
-                "owner": "webdataset",
-                "repo": "webdataset",
-                "stars": 3171
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1824,7 +1943,8 @@
                 "owner": "maciejkula",
                 "repo": "spotlight",
                 "stars": 3043
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1839,7 +1959,8 @@
                 "owner": "benedekrozemberczki",
                 "repo": "pytorch_geometric_temporal",
                 "stars": 2992
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1854,7 +1975,8 @@
                 "owner": "NVIDIA",
                 "repo": "MinkowskiEngine",
                 "stars": 2956
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1869,7 +1991,8 @@
                 "owner": "Luolc",
                 "repo": "AdaBound",
                 "stars": 2902
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1883,8 +2006,9 @@
                 "last_commit": "2025-12-16T20:53:41Z",
                 "owner": "learnables",
                 "repo": "learn2learn",
-                "stars": 2893
-              }
+                "stars": 2894
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1898,8 +2022,9 @@
                 "last_commit": "2026-05-27T19:58:05Z",
                 "owner": "pytorch",
                 "repo": "xla",
-                "stars": 2803
-              }
+                "stars": 2804
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1914,7 +2039,8 @@
                 "owner": "facebook",
                 "repo": "Ax",
                 "stars": 2793
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1929,7 +2055,8 @@
                 "owner": "HobbitLong",
                 "repo": "RepDistiller",
                 "stars": 2437
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1944,7 +2071,8 @@
                 "owner": "astooke",
                 "repo": "rlpyt",
                 "stars": 2278
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1959,7 +2087,8 @@
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
                 "stars": 2130
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1974,7 +2103,8 @@
                 "owner": "zhanghang1989",
                 "repo": "PyTorch-Encoding",
                 "stars": 2044
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -1989,7 +2119,8 @@
                 "owner": "nitrain",
                 "repo": "nitrain",
                 "stars": 1880
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2000,11 +2131,12 @@
                 "archived": false,
                 "id": 428967501,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:36:01Z",
+                "last_commit": "2026-08-28T03:51:48Z",
                 "owner": "rentruewang",
                 "repo": "aioway",
                 "stars": 1824
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2019,7 +2151,8 @@
                 "owner": "CSAILVision",
                 "repo": "gandissect",
                 "stars": 1765
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2034,7 +2167,8 @@
                 "owner": "Lightning-Universe",
                 "repo": "lightning-flash",
                 "stars": 1722
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2049,7 +2183,8 @@
                 "owner": "BindsNET",
                 "repo": "bindsnet",
                 "stars": 1695
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2064,7 +2199,8 @@
                 "owner": "facebookresearch",
                 "repo": "CrypTen",
                 "stars": 1649
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2079,7 +2215,8 @@
                 "owner": "facebookresearch",
                 "repo": "higher",
                 "stars": 1626
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2094,7 +2231,8 @@
                 "owner": "BloodAxe",
                 "repo": "pytorch-toolbelt",
                 "stars": 1574
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2109,7 +2247,8 @@
                 "owner": "pytorch",
                 "repo": "QNNPACK",
                 "stars": 1551
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2124,7 +2263,8 @@
                 "owner": "Swall0w",
                 "repo": "torchstat",
                 "stars": 1500
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2139,7 +2279,8 @@
                 "owner": "BachiLi",
                 "repo": "redner",
                 "stars": 1444
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2154,7 +2295,8 @@
                 "owner": "pytorch",
                 "repo": "hub",
                 "stars": 1434
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2169,7 +2311,8 @@
                 "owner": "BorealisAI",
                 "repo": "advertorch",
                 "stars": 1364
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2184,7 +2327,8 @@
                 "owner": "kengz",
                 "repo": "SLM-Lab",
                 "stars": 1362
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2198,8 +2342,9 @@
                 "last_commit": "2026-01-13T16:13:29Z",
                 "owner": "pytorch",
                 "repo": "extension-cpp",
-                "stars": 1203
-              }
+                "stars": 1202
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2213,8 +2358,9 @@
                 "last_commit": "2026-05-09T15:51:57Z",
                 "owner": "geoopt",
                 "repo": "geoopt",
-                "stars": 1091
-              }
+                "stars": 1092
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2225,11 +2371,12 @@
                 "archived": false,
                 "id": 83158675,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:02:25Z",
+                "last_commit": "2026-08-28T12:28:26Z",
                 "owner": "MushroomRL",
                 "repo": "mushroom-rl",
                 "stars": 944
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2244,7 +2391,8 @@
                 "owner": "dusty-nv",
                 "repo": "jetson-reinforcement",
                 "stars": 930
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2259,7 +2407,8 @@
                 "owner": "rusty1s",
                 "repo": "pytorch_cluster",
                 "stars": 928
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2274,7 +2423,8 @@
                 "owner": "tristandeleu",
                 "repo": "pytorch-maml-rl",
                 "stars": 884
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2289,7 +2439,8 @@
                 "owner": "kakaobrain",
                 "repo": "torchgpipe",
                 "stars": 865
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2304,7 +2455,8 @@
                 "owner": "gmalivenko",
                 "repo": "pytorch2keras",
                 "stars": 862
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2319,7 +2471,8 @@
                 "owner": "facebookresearch",
                 "repo": "torchbeast",
                 "stars": 754
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2334,7 +2487,8 @@
                 "owner": "Mariewelt",
                 "repo": "OpenChem",
                 "stars": 753
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2349,7 +2503,8 @@
                 "owner": "wohlert",
                 "repo": "semi-supervised-pytorch",
                 "stars": 709
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2364,7 +2519,8 @@
                 "owner": "cpnota",
                 "repo": "autonomous-learning-library",
                 "stars": 657
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2379,7 +2535,8 @@
                 "owner": "pytorchbearer",
                 "repo": "torchbearer",
                 "stars": 641
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2394,7 +2551,8 @@
                 "owner": "perone",
                 "repo": "euclidesdb",
                 "stars": 639
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2409,7 +2567,8 @@
                 "owner": "hjmshi",
                 "repo": "PyTorch-LBFGS",
                 "stars": 629
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2424,7 +2583,8 @@
                 "owner": "Lightning-Universe",
                 "repo": "lightning-transformers",
                 "stars": 608
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2439,7 +2599,8 @@
                 "owner": "awwong1",
                 "repo": "torchprof",
                 "stars": 605
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2454,7 +2615,8 @@
                 "owner": "richzhang",
                 "repo": "colorization-pytorch",
                 "stars": 601
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2469,7 +2631,8 @@
                 "owner": "szagoruyko",
                 "repo": "functional-zoo",
                 "stars": 584
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2484,7 +2647,8 @@
                 "owner": "freud14",
                 "repo": "poutyne",
                 "stars": 578
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2499,7 +2663,8 @@
                 "owner": "freud14",
                 "repo": "poutyne",
                 "stars": 578
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2514,7 +2679,8 @@
                 "owner": "RobotLocomotion",
                 "repo": "pytorch-dense-correspondence",
                 "stars": 576
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2529,7 +2695,8 @@
                 "owner": "aiqm",
                 "repo": "torchani",
                 "stars": 554
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2544,7 +2711,8 @@
                 "owner": "clcarwin",
                 "repo": "convert_torch_to_pytorch",
                 "stars": 541
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2559,7 +2727,8 @@
                 "owner": "akanimax",
                 "repo": "pro_gan_pytorch",
                 "stars": 541
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2574,7 +2743,8 @@
                 "owner": "fancompute",
                 "repo": "wavetorch",
                 "stars": 539
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2589,7 +2759,8 @@
                 "owner": "longcw",
                 "repo": "pytorch2caffe",
                 "stars": 538
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2604,7 +2775,8 @@
                 "owner": "glample",
                 "repo": "Arnold",
                 "stars": 534
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2619,7 +2791,8 @@
                 "owner": "Omegastick",
                 "repo": "pytorch-cpp-rl",
                 "stars": 532
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2634,7 +2807,8 @@
                 "owner": "masa-su",
                 "repo": "pixyz",
                 "stars": 505
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2649,7 +2823,8 @@
                 "owner": "salesforce",
                 "repo": "matchbox",
                 "stars": 486
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2664,7 +2839,8 @@
                 "owner": "noahgolmant",
                 "repo": "pytorch-hessian-eigenthings",
                 "stars": 474
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2679,7 +2855,8 @@
                 "owner": "Schlumberger",
                 "repo": "joint-vae",
                 "stars": 469
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2694,7 +2871,8 @@
                 "owner": "thuml",
                 "repo": "Xlearn",
                 "stars": 463
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2709,7 +2887,8 @@
                 "owner": "DevinXYang",
                 "repo": "torch-toolbox",
                 "stars": 419
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2724,7 +2903,8 @@
                 "owner": "achaiah",
                 "repo": "pywick",
                 "stars": 399
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2739,7 +2919,8 @@
                 "owner": "vadimkantorov",
                 "repo": "caffemodel2pytorch",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2754,7 +2935,8 @@
                 "owner": "pytorch",
                 "repo": "contrib",
                 "stars": 389
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2769,7 +2951,8 @@
                 "owner": "osai-ai",
                 "repo": "tensor-stream",
                 "stars": 388
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2784,7 +2967,8 @@
                 "owner": "prisma-ai",
                 "repo": "torch2coreml",
                 "stars": 384
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2799,7 +2983,8 @@
                 "owner": "zuoxingdong",
                 "repo": "lagom",
                 "stars": 378
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2814,7 +2999,8 @@
                 "owner": "msamogh",
                 "repo": "nonechucks",
                 "stars": 378
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2829,7 +3015,8 @@
                 "owner": "jbohnslav",
                 "repo": "opencv_transforms",
                 "stars": 375
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2844,7 +3031,8 @@
                 "owner": "MagNet-DL",
                 "repo": "magnet",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2859,7 +3047,8 @@
                 "owner": "domainadaptation",
                 "repo": "salad",
                 "stars": 341
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2874,7 +3063,8 @@
                 "owner": "dmmiller612",
                 "repo": "sparktorch",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2889,7 +3079,8 @@
                 "owner": "TorchDrift",
                 "repo": "TorchDrift",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2904,7 +3095,8 @@
                 "owner": "locuslab",
                 "repo": "pytorch_fft",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2919,7 +3111,8 @@
                 "owner": "awslabs",
                 "repo": "Renate",
                 "stars": 299
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2934,7 +3127,8 @@
                 "owner": "Media-Smart",
                 "repo": "volksdep",
                 "stars": 285
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2949,7 +3143,8 @@
                 "owner": "MillionIntegrals",
                 "repo": "vel",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2964,7 +3159,8 @@
                 "owner": "szagoruyko",
                 "repo": "pyinn",
                 "stars": 273
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2979,7 +3175,8 @@
                 "owner": "asappresearch",
                 "repo": "flambe",
                 "stars": 271
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -2994,7 +3191,8 @@
                 "owner": "mctorch",
                 "repo": "mctorch",
                 "stars": 256
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3009,7 +3207,8 @@
                 "owner": "inferno-pytorch",
                 "repo": "inferno",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3024,7 +3223,8 @@
                 "owner": "josipd",
                 "repo": "torch-two-sample",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3039,7 +3239,8 @@
                 "owner": "koz4k",
                 "repo": "dni-pytorch",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3054,7 +3255,8 @@
                 "owner": "BasBuller",
                 "repo": "PySNN",
                 "stars": 234
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3069,7 +3271,8 @@
                 "owner": "nearai",
                 "repo": "torchfold",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3084,7 +3287,8 @@
                 "owner": "delira-dev",
                 "repo": "delira",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3099,7 +3303,8 @@
                 "owner": "dmarnerides",
                 "repo": "pydlt",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3114,7 +3319,8 @@
                 "owner": "mblondel",
                 "repo": "fenchel-young-losses",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3129,7 +3335,8 @@
                 "owner": "cmsflash",
                 "repo": "beauty-net",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3144,7 +3351,8 @@
                 "owner": "mariogeiger",
                 "repo": "hessian",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3159,7 +3367,8 @@
                 "owner": "blue-season",
                 "repo": "pywarm",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3174,7 +3383,8 @@
                 "owner": "bes-dev",
                 "repo": "mpl.pytorch",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3189,7 +3399,8 @@
                 "owner": "PIQuIL",
                 "repo": "QuCumber",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3204,7 +3415,8 @@
                 "owner": "fanq15",
                 "repo": "caffe_to_torch_to_pytorch",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3219,7 +3431,8 @@
                 "owner": "SherylHYX",
                 "repo": "pytorch_geometric_signed_directed",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3234,7 +3447,8 @@
                 "owner": "oval-group",
                 "repo": "mlogger",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3249,7 +3463,8 @@
                 "owner": "sniklaus",
                 "repo": "pytorch-extension",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3264,7 +3479,8 @@
                 "owner": "bharathgs",
                 "repo": "NALU",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3279,7 +3495,8 @@
                 "owner": "Vermeille",
                 "repo": "Torchelie",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3294,7 +3511,8 @@
                 "owner": "hal3",
                 "repo": "macarico",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3309,7 +3527,8 @@
                 "owner": "henryre",
                 "repo": "pytorch-fitmodule",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3324,7 +3543,8 @@
                 "owner": "albanie",
                 "repo": "pytorch-mcn",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3339,7 +3559,8 @@
                 "owner": "cogitare-ai",
                 "repo": "cogitare",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3354,7 +3575,8 @@
                 "owner": "t-vi",
                 "repo": "candlegp",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3369,7 +3591,8 @@
                 "owner": "alibaba-archive",
                 "repo": "torchcraft-py",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3384,7 +3607,8 @@
                 "owner": "osqp",
                 "repo": "osqpth",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3399,7 +3623,8 @@
                 "owner": "ramon-oliveira",
                 "repo": "aorun",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3414,7 +3639,8 @@
                 "owner": "ag14774",
                 "repo": "diffdist",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3429,7 +3655,8 @@
                 "owner": "kaihsin",
                 "repo": "Tor10",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3444,7 +3671,8 @@
                 "owner": "kaihsin",
                 "repo": "Tor10",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3459,7 +3687,8 @@
                 "owner": "DL-IT",
                 "repo": "generative_zoo",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3474,7 +3703,8 @@
                 "owner": "loudinthecloud",
                 "repo": "dpwa",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3489,7 +3719,8 @@
                 "owner": "mrdrozdov-github",
                 "repo": "pytorch-extras",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3504,7 +3735,8 @@
                 "owner": "ryanleary",
                 "repo": "ctcdecode",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3519,7 +3751,8 @@
                 "owner": "Erotemic",
                 "repo": "netharn",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3534,7 +3767,8 @@
                 "owner": "taolei87",
                 "repo": "sru",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3549,7 +3783,8 @@
                 "owner": "iamaziz",
                 "repo": "PyTorch-docset",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3564,7 +3799,8 @@
                 "owner": "godardt",
                 "repo": "torchlite",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3579,7 +3815,8 @@
                 "owner": "aditya-khant",
                 "repo": "neural-assembly-compiler",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3594,7 +3831,8 @@
                 "owner": "awentzonline",
                 "repo": "pytorch-cns",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3609,7 +3847,8 @@
                 "owner": "knighton",
                 "repo": "torchplus",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             },
             {
               "node_type": "item",
@@ -3624,7 +3863,8 @@
                 "owner": "abkmystery",
                 "repo": "ANEE",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:11:46.641Z"
             }
           ],
           "description": null,
@@ -3649,8 +3889,9 @@
             "last_commit": "2026-01-22T04:26:00Z",
             "owner": "labmlai",
             "repo": "annotated_deep_learning_paper_implementations",
-            "stars": 67361
-          }
+            "stars": 67366
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3661,11 +3902,12 @@
             "archived": false,
             "id": 168799526,
             "language": "Python",
-            "last_commit": "2026-08-27T14:45:03Z",
+            "last_commit": "2026-08-28T15:05:27Z",
             "owner": "huggingface",
             "repo": "pytorch-image-models",
-            "stars": 37103
-          }
+            "stars": 37105
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3679,8 +3921,9 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32464
-          }
+            "stars": 32465
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3695,7 +3938,8 @@
             "owner": "pytorch",
             "repo": "examples",
             "stars": 24016
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3709,8 +3953,9 @@
             "last_commit": "2026-08-26T14:40:56Z",
             "owner": "pytorch",
             "repo": "tutorials",
-            "stars": 9291
-          }
+            "stars": 9292
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3725,7 +3970,8 @@
             "owner": "MorvanZhou",
             "repo": "PyTorch-Tutorial",
             "stars": 8464
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3736,11 +3982,12 @@
             "archived": false,
             "id": 241095326,
             "language": "Python",
-            "last_commit": "2026-08-27T16:03:31Z",
+            "last_commit": "2026-08-28T16:38:26Z",
             "owner": "flwrlabs",
             "repo": "flower",
             "stars": 7091
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3755,7 +4002,8 @@
             "owner": "Atcold",
             "repo": "NYU-DLSP20",
             "stars": 6810
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3769,8 +4017,9 @@
             "last_commit": "2024-03-27T17:27:27Z",
             "owner": "bentrevett",
             "repo": "pytorch-sentiment-analysis",
-            "stars": 4613
-          }
+            "stars": 4614
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3785,7 +4034,8 @@
             "owner": "spro",
             "repo": "practical-pytorch",
             "stars": 4539
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3800,7 +4050,8 @@
             "owner": "dsgiitr",
             "repo": "d2l-pytorch",
             "stars": 4361
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3814,8 +4065,9 @@
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4110
-          }
+            "stars": 4114
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3830,7 +4082,8 @@
             "owner": "higgsfield",
             "repo": "RL-Adventure",
             "stars": 3179
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3845,7 +4098,8 @@
             "owner": "DSKSD",
             "repo": "DeepNLP-models-Pytorch",
             "stars": 2944
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3860,7 +4114,8 @@
             "owner": "L1aoXingyu",
             "repo": "code-of-learn-deep-learning-with-pytorch",
             "stars": 2875
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3875,7 +4130,8 @@
             "owner": "prabhuomkar",
             "repo": "pytorch-cpp",
             "stars": 2137
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3889,8 +4145,9 @@
             "last_commit": "2024-06-18T02:36:02Z",
             "owner": "bearpaw",
             "repo": "pytorch-classification",
-            "stars": 1738
-          }
+            "stars": 1739
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3905,7 +4162,8 @@
             "owner": "Kaixhin",
             "repo": "grokking-pytorch",
             "stars": 1199
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3920,7 +4178,8 @@
             "owner": "mila-iqia",
             "repo": "welcome_tutorials",
             "stars": 983
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3935,7 +4194,8 @@
             "owner": "utkuozbulak",
             "repo": "pytorch-custom-dataset-examples",
             "stars": 874
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3950,7 +4210,8 @@
             "owner": "higgsfield",
             "repo": "Capsule-Network-Tutorial",
             "stars": 765
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3965,7 +4226,8 @@
             "owner": "BIGBALLON",
             "repo": "CIFAR-ZOO",
             "stars": 707
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3980,7 +4242,8 @@
             "owner": "keon",
             "repo": "seq2seq",
             "stars": 706
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -3995,7 +4258,8 @@
             "owner": "wkentaro",
             "repo": "pytorch-for-numpy-users",
             "stars": 706
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4010,7 +4274,8 @@
             "owner": "ne7ermore",
             "repo": "torch-light",
             "stars": 537
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4025,7 +4290,8 @@
             "owner": "davidcpage",
             "repo": "cifar10-fast",
             "stars": 537
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4040,7 +4306,8 @@
             "owner": "cemoody",
             "repo": "topicsne",
             "stars": 480
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4055,7 +4322,8 @@
             "owner": "JeanKossaifi",
             "repo": "tensorly-notebooks",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4070,7 +4338,8 @@
             "owner": "lemonhu",
             "repo": "NER-BERT-pytorch",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4085,7 +4354,8 @@
             "owner": "xiadingZ",
             "repo": "video-caption.pytorch",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4100,7 +4370,8 @@
             "owner": "stared",
             "repo": "thinking-in-tensors-writing-in-pytorch",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4115,7 +4386,8 @@
             "owner": "hardmaru",
             "repo": "pytorch_notebooks",
             "stars": 392
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4130,7 +4402,8 @@
             "owner": "GunhoChoi",
             "repo": "Kind-PyTorch-Tutorial",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4145,7 +4418,8 @@
             "owner": "barissayil",
             "repo": "SentimentAnalysis",
             "stars": 378
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4160,7 +4434,8 @@
             "owner": "eladhoffer",
             "repo": "convNet.pytorch",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4175,7 +4450,8 @@
             "owner": "vinhkhuc",
             "repo": "PyTorch-Mini-Tutorials",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4190,7 +4466,8 @@
             "owner": "Kyubyong",
             "repo": "pytorch_exercises",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4205,7 +4482,8 @@
             "owner": "Spandan-Madan",
             "repo": "Pytorch_fine_tuning_Tutorial",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4220,7 +4498,8 @@
             "owner": "chingyaoc",
             "repo": "pytorch-REINFORCE",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4235,7 +4514,8 @@
             "owner": "dougsouza",
             "repo": "pytorch-sync-batchnorm-example",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4250,7 +4530,8 @@
             "owner": "justdark",
             "repo": "pytorch-poetry-gen",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4265,7 +4546,8 @@
             "owner": "sanyam5",
             "repo": "skip-thoughts",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4280,7 +4562,8 @@
             "owner": "fducau",
             "repo": "AAE_pytorch",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4295,7 +4578,8 @@
             "owner": "napsternxg",
             "repo": "pytorch-practice",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4310,7 +4594,8 @@
             "owner": "Js-Mim",
             "repo": "mss_pytorch",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4325,7 +4610,8 @@
             "owner": "furkanu",
             "repo": "deeplearning.ai-pytorch",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4340,7 +4626,8 @@
             "owner": "hpcgarage",
             "repo": "accelerated_dl_pytorch",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4355,7 +4642,8 @@
             "owner": "soravux",
             "repo": "pytorch_tutorial",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4370,7 +4658,8 @@
             "owner": "keon",
             "repo": "pytorch-exercises",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4385,7 +4674,8 @@
             "owner": "tobiascz",
             "repo": "MNIST_Pytorch_python_and_capi",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4400,7 +4690,8 @@
             "owner": "amdegroot",
             "repo": "pytorch-containers",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4415,7 +4706,8 @@
             "owner": "jpeg729",
             "repo": "pytorch_bits",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4430,7 +4722,8 @@
             "owner": "desimone",
             "repo": "pytorch-cat-vs-dogs",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4445,7 +4738,8 @@
             "owner": "xiayandi",
             "repo": "Pytorch_text_classification",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4460,7 +4754,8 @@
             "owner": "moskomule",
             "repo": "pytorch.rl.learning",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4475,7 +4770,8 @@
             "owner": "omarsar",
             "repo": "mri-analysis-pytorch",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4490,7 +4786,8 @@
             "owner": "soumith",
             "repo": "traffic-sign-detection-homework",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4505,7 +4802,8 @@
             "owner": "dribnet",
             "repo": "portrain-gan",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4520,7 +4818,8 @@
             "owner": "joansj",
             "repo": "pytorch-intro",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4535,7 +4834,8 @@
             "owner": "mailmahee",
             "repo": "pytorch-generative-adversarial-networks",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         }
       ],
       "title": "Tutorials, books, & examples"
@@ -4552,11 +4852,12 @@
             "archived": false,
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-27T15:57:59Z",
+            "last_commit": "2026-08-28T17:07:53Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164505
-          }
+            "stars": 164566
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4570,8 +4871,9 @@
             "last_commit": "2025-08-06T17:58:38Z",
             "owner": "junyanz",
             "repo": "pytorch-CycleGAN-and-pix2pix",
-            "stars": 25234
-          }
+            "stars": 25235
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4586,7 +4888,8 @@
             "owner": "eriklindernoren",
             "repo": "PyTorch-GAN",
             "stars": 17447
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4600,8 +4903,9 @@
             "last_commit": "2026-08-13T07:15:26Z",
             "owner": "jacobgil",
             "repo": "pytorch-grad-cam",
-            "stars": 12959
-          }
+            "stars": 12960
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4616,7 +4920,8 @@
             "owner": "NVIDIA",
             "repo": "FastPhotoStyle",
             "stars": 11176
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4627,11 +4932,12 @@
             "archived": false,
             "id": 146165888,
             "language": "Python",
-            "last_commit": "2026-08-20T20:13:23Z",
+            "last_commit": "2026-08-28T11:04:58Z",
             "owner": "ultralytics",
             "repo": "yolov3",
             "stars": 10598
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4646,7 +4952,8 @@
             "owner": "jadore801120",
             "repo": "attention-is-all-you-need-pytorch",
             "stars": 9783
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4661,7 +4968,8 @@
             "owner": "NVIDIA",
             "repo": "vid2vid",
             "stars": 8692
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4675,8 +4983,9 @@
             "last_commit": "2023-04-27T03:47:44Z",
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8088
-          }
+            "stars": 8089
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4691,7 +5000,8 @@
             "owner": "alex-damian",
             "repo": "pulse",
             "stars": 8023
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4706,7 +5016,8 @@
             "owner": "jwyang",
             "repo": "faster-rcnn.pytorch",
             "stars": 7858
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4721,7 +5032,8 @@
             "owner": "1adrianb",
             "repo": "face-alignment",
             "stars": 7538
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4735,8 +5047,9 @@
             "last_commit": "2024-11-04T18:13:20Z",
             "owner": "NVIDIA",
             "repo": "pix2pixHD",
-            "stars": 6923
-          }
+            "stars": 6924
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4751,7 +5064,8 @@
             "owner": "p-christ",
             "repo": "Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
             "stars": 5938
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4766,7 +5080,8 @@
             "owner": "p-christ",
             "repo": "Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
             "stars": 5938
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4781,7 +5096,8 @@
             "owner": "tkipf",
             "repo": "pygcn",
             "stars": 5398
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4796,7 +5112,8 @@
             "owner": "yunjey",
             "repo": "stargan",
             "stars": 5296
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4810,8 +5127,9 @@
             "last_commit": "2024-06-12T18:49:15Z",
             "owner": "NVIDIA",
             "repo": "tacotron2",
-            "stars": 5296
-          }
+            "stars": 5295
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4826,7 +5144,8 @@
             "owner": "amdegroot",
             "repo": "ssd.pytorch",
             "stars": 5221
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4841,7 +5160,8 @@
             "owner": "CSAILVision",
             "repo": "semantic-segmentation-pytorch",
             "stars": 5078
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4856,7 +5176,8 @@
             "owner": "locuslab",
             "repo": "TCN",
             "stars": 4548
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4871,7 +5192,8 @@
             "owner": "layumi",
             "repo": "Person_reID_baseline_pytorch",
             "stars": 4447
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4886,7 +5208,8 @@
             "owner": "kenshohara",
             "repo": "3D-ResNets-PyTorch",
             "stars": 4038
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4901,7 +5224,8 @@
             "owner": "ikostrikov",
             "repo": "pytorch-a2c-ppo-acktr-gail",
             "stars": 3903
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4916,7 +5240,8 @@
             "owner": "mseitzer",
             "repo": "pytorch-fid",
             "stars": 3851
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4931,7 +5256,8 @@
             "owner": "kimiyoung",
             "repo": "transformer-xl",
             "stars": 3714
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4946,7 +5272,8 @@
             "owner": "cleardusk",
             "repo": "3DDFA",
             "stars": 3677
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4961,7 +5288,8 @@
             "owner": "NVIDIA",
             "repo": "flownet2-pytorch",
             "stars": 3289
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4976,7 +5304,8 @@
             "owner": "martinarjovsky",
             "repo": "WassersteinGAN",
             "stars": 3243
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -4991,7 +5320,8 @@
             "owner": "tomgoldstein",
             "repo": "loss-landscape",
             "stars": 3199
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5006,7 +5336,8 @@
             "owner": "ajbrock",
             "repo": "BigGAN-PyTorch",
             "stars": 2923
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5021,7 +5352,8 @@
             "owner": "facebookresearch",
             "repo": "XLM",
             "stars": 2920
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5036,7 +5368,8 @@
             "owner": "roytseng-tw",
             "repo": "Detectron.pytorch",
             "stars": 2808
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5051,7 +5384,8 @@
             "owner": "carpedm20",
             "repo": "ENAS-pytorch",
             "stars": 2719
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5066,7 +5400,8 @@
             "owner": "aaron-xichen",
             "repo": "pytorch-playground",
             "stars": 2716
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5081,7 +5416,8 @@
             "owner": "KupynOrest",
             "repo": "DeblurGAN",
             "stars": 2639
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5096,7 +5432,8 @@
             "owner": "znxlwm",
             "repo": "pytorch-generative-model-collections",
             "stars": 2627
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5111,7 +5448,8 @@
             "owner": "sanghyun-son",
             "repo": "EDSR-PyTorch",
             "stars": 2627
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5126,7 +5464,8 @@
             "owner": "fxia22",
             "repo": "pointnet.pytorch",
             "stars": 2355
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5141,7 +5480,8 @@
             "owner": "NVIDIA",
             "repo": "waveglow",
             "stars": 2339
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5156,7 +5496,8 @@
             "owner": "SeanNaren",
             "repo": "deepspeech.pytorch",
             "stars": 2136
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5167,11 +5508,12 @@
             "archived": false,
             "id": 242672435,
             "language": "Python",
-            "last_commit": "2026-08-26T18:21:14Z",
+            "last_commit": "2026-08-27T19:41:02Z",
             "owner": "pykeen",
             "repo": "pykeen",
             "stars": 2032
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5186,7 +5528,8 @@
             "owner": "mingyuliutw",
             "repo": "UNIT",
             "stars": 2025
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5201,7 +5544,8 @@
             "owner": "r9y9",
             "repo": "deepvoice3_pytorch",
             "stars": 1975
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5216,7 +5560,8 @@
             "owner": "NVIDIA",
             "repo": "semantic-segmentation",
             "stars": 1828
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5231,7 +5576,8 @@
             "owner": "ruotianluo",
             "repo": "pytorch-faster-rcnn",
             "stars": 1811
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5246,7 +5592,8 @@
             "owner": "wkentaro",
             "repo": "pytorch-fcn",
             "stars": 1777
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5261,7 +5608,8 @@
             "owner": "longcw",
             "repo": "faster_rcnn_pytorch",
             "stars": 1776
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5276,7 +5624,8 @@
             "owner": "facebookresearch",
             "repo": "poincare-embeddings",
             "stars": 1756
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5291,7 +5640,8 @@
             "owner": "Kaixhin",
             "repo": "Rainbow",
             "stars": 1673
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5306,7 +5656,8 @@
             "owner": "natanielruiz",
             "repo": "deep-head-pose",
             "stars": 1666
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5321,7 +5672,8 @@
             "owner": "longcw",
             "repo": "yolo2-pytorch",
             "stars": 1560
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5336,7 +5688,8 @@
             "owner": "caogang",
             "repo": "wgan-gp",
             "stars": 1547
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5351,7 +5704,8 @@
             "owner": "gpleiss",
             "repo": "efficient_densenet_pytorch",
             "stars": 1535
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5366,7 +5720,8 @@
             "owner": "huggingface",
             "repo": "pytorch-openai-transformer-lm",
             "stars": 1522
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5381,7 +5736,8 @@
             "owner": "ruotianluo",
             "repo": "ImageCaptioning.pytorch",
             "stars": 1476
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5396,7 +5752,8 @@
             "owner": "szagoruyko",
             "repo": "attention-transfer",
             "stars": 1463
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5411,7 +5768,8 @@
             "owner": "facebookresearch",
             "repo": "end-to-end-negotiator",
             "stars": 1400
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5426,7 +5784,8 @@
             "owner": "tensorboy",
             "repo": "pytorch_Realtime_Multi-Person_Pose_Estimation",
             "stars": 1371
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5441,7 +5800,8 @@
             "owner": "mapillary",
             "repo": "inplace_abn",
             "stars": 1333
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5456,7 +5816,8 @@
             "owner": "NVlabs",
             "repo": "DG-Net",
             "stars": 1298
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5471,7 +5832,8 @@
             "owner": "benedekrozemberczki",
             "repo": "CapsGNN",
             "stars": 1278
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5486,7 +5848,8 @@
             "owner": "jayleicn",
             "repo": "animeGAN",
             "stars": 1277
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5501,7 +5864,8 @@
             "owner": "salesforce",
             "repo": "pytorch-qrnn",
             "stars": 1263
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5516,7 +5880,8 @@
             "owner": "maum-ai",
             "repo": "voicefilter",
             "stars": 1218
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5531,7 +5896,8 @@
             "owner": "bearpaw",
             "repo": "pytorch-pose",
             "stars": 1121
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5546,7 +5912,8 @@
             "owner": "carpedm20",
             "repo": "DiscoGAN-pytorch",
             "stars": 1095
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5561,7 +5928,8 @@
             "owner": "orobix",
             "repo": "Prototypical-Networks-for-Few-shot-Learning-PyTorch",
             "stars": 1078
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5576,7 +5944,8 @@
             "owner": "yjxiong",
             "repo": "tsn-pytorch",
             "stars": 1074
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5591,7 +5960,8 @@
             "owner": "williamleif",
             "repo": "graphsage-simple",
             "stars": 1052
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5606,7 +5976,8 @@
             "owner": "Shawn1993",
             "repo": "cnn-text-classification-pytorch",
             "stars": 1043
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5621,7 +5992,8 @@
             "owner": "ClementPinard",
             "repo": "SfmLearner-Pytorch",
             "stars": 1031
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5636,7 +6008,8 @@
             "owner": "graykode",
             "repo": "gpt-2-Pytorch",
             "stars": 1013
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5651,7 +6024,8 @@
             "owner": "zhanghang1989",
             "repo": "PyTorch-Multi-Style-Transfer",
             "stars": 1009
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5666,7 +6040,8 @@
             "owner": "ruotianluo",
             "repo": "self-critical.pytorch",
             "stars": 999
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5681,7 +6056,8 @@
             "owner": "kuangliu",
             "repo": "pytorch-retinanet",
             "stars": 997
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5695,8 +6071,9 @@
             "last_commit": "2019-11-05T06:10:55Z",
             "owner": "wannabeOG",
             "repo": "Mask-RCNN",
-            "stars": 987
-          }
+            "stars": 988
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5711,7 +6088,8 @@
             "owner": "huggingface",
             "repo": "torchMoji",
             "stars": 921
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5726,7 +6104,8 @@
             "owner": "LMescheder",
             "repo": "GAN_stability",
             "stars": 921
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5741,7 +6120,8 @@
             "owner": "oeway",
             "repo": "pytorch-deform-conv",
             "stars": 904
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5756,7 +6136,8 @@
             "owner": "ClementPinard",
             "repo": "FlowNetPytorch",
             "stars": 901
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5771,7 +6152,8 @@
             "owner": "nyukat",
             "repo": "breast_cancer_classifier",
             "stars": 890
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5786,7 +6168,8 @@
             "owner": "jacobgil",
             "repo": "pytorch-pruning",
             "stars": 884
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5801,7 +6184,8 @@
             "owner": "ProGamerGov",
             "repo": "neural-style-pt",
             "stars": 855
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5816,7 +6200,8 @@
             "owner": "zisianw",
             "repo": "FaceBoxes.PyTorch",
             "stars": 850
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5831,7 +6216,8 @@
             "owner": "LiyuanLucasLiu",
             "repo": "LM-LSTM-CRF",
             "stars": 847
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5846,7 +6232,8 @@
             "owner": "hanzhanggit",
             "repo": "StackGAN-v2",
             "stars": 846
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5861,7 +6248,8 @@
             "owner": "scaelles",
             "repo": "DEXTR-PyTorch",
             "stars": 846
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5876,7 +6264,8 @@
             "owner": "bamos",
             "repo": "densenet.pytorch",
             "stars": 839
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5891,7 +6280,8 @@
             "owner": "kimhc6028",
             "repo": "relational-networks",
             "stars": 816
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5906,7 +6296,8 @@
             "owner": "benedekrozemberczki",
             "repo": "SimGNN",
             "stars": 814
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5921,7 +6312,8 @@
             "owner": "benedekrozemberczki",
             "repo": "ClusterGCN",
             "stars": 804
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5936,7 +6328,8 @@
             "owner": "jingweiz",
             "repo": "pytorch-rl",
             "stars": 802
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5950,8 +6343,9 @@
             "last_commit": "2024-09-03T21:48:47Z",
             "owner": "locuslab",
             "repo": "qpth",
-            "stars": 799
-          }
+            "stars": 800
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5966,7 +6360,8 @@
             "owner": "SKTBrain",
             "repo": "DiscoGAN",
             "stars": 777
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5981,7 +6376,8 @@
             "owner": "mateuszbuda",
             "repo": "brain-segmentation-pytorch",
             "stars": 776
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -5996,7 +6392,8 @@
             "owner": "hengyuan-hu",
             "repo": "bottom-up-attention-vqa",
             "stars": 768
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6011,7 +6408,8 @@
             "owner": "facebookresearch",
             "repo": "FaderNetworks",
             "stars": 760
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6026,7 +6424,8 @@
             "owner": "baidu-research",
             "repo": "NCRF",
             "stars": 759
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6041,7 +6440,8 @@
             "owner": "mattmacy",
             "repo": "vnet.pytorch",
             "stars": 756
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6056,7 +6456,8 @@
             "owner": "MaximumEntropy",
             "repo": "Seq2Seq-PyTorch",
             "stars": 740
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6071,7 +6472,8 @@
             "owner": "zhunzhong07",
             "repo": "Random-Erasing",
             "stars": 735
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6086,7 +6488,8 @@
             "owner": "Cadene",
             "repo": "vqa.pytorch",
             "stars": 733
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6101,7 +6504,8 @@
             "owner": "clcarwin",
             "repo": "sphereface_pytorch",
             "stars": 714
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6116,7 +6520,8 @@
             "owner": "TimDettmers",
             "repo": "ConvE",
             "stars": 691
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6131,7 +6536,8 @@
             "owner": "ShichenLiu",
             "repo": "CondenseNet",
             "stars": 690
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6146,7 +6552,8 @@
             "owner": "seungwonpark",
             "repo": "RandWireNN",
             "stars": 684
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6161,7 +6568,8 @@
             "owner": "timomernick",
             "repo": "pytorch-capsule",
             "stars": 629
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6176,7 +6584,8 @@
             "owner": "pemami4911",
             "repo": "neural-combinatorial-rl-pytorch",
             "stars": 612
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6191,7 +6600,8 @@
             "owner": "xingyizhou",
             "repo": "pytorch-pose-hg-3d",
             "stars": 612
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6206,7 +6616,8 @@
             "owner": "loudinthecloud",
             "repo": "pytorch-ntm",
             "stars": 610
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6221,7 +6632,8 @@
             "owner": "benedekrozemberczki",
             "repo": "GraphWaveletNeuralNetwork",
             "stars": 607
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6236,7 +6648,8 @@
             "owner": "isht7",
             "repo": "pytorch-deeplab-resnet",
             "stars": 601
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6251,7 +6664,8 @@
             "owner": "karpathy",
             "repo": "pytorch-made",
             "stars": 594
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6265,8 +6679,9 @@
             "last_commit": "2020-03-26T17:17:08Z",
             "owner": "locuslab",
             "repo": "optnet",
-            "stars": 590
-          }
+            "stars": 591
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6281,7 +6696,8 @@
             "owner": "Lextal",
             "repo": "pspnet-pytorch",
             "stars": 590
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6296,7 +6712,8 @@
             "owner": "ikostrikov",
             "repo": "pytorch-flows",
             "stars": 589
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6311,7 +6728,8 @@
             "owner": "yunxiaoshi",
             "repo": "Neural-IMage-Assessment",
             "stars": 585
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6326,7 +6744,8 @@
             "owner": "gapeng000",
             "repo": "PyTorch-progressive_growing_of_gans",
             "stars": 582
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6341,7 +6760,8 @@
             "owner": "katerakelly",
             "repo": "pytorch-maml",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6356,7 +6776,8 @@
             "owner": "dgriff777",
             "repo": "rl_a3c_pytorch",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6371,7 +6792,8 @@
             "owner": "dasguptar",
             "repo": "treelstm.pytorch",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6386,7 +6808,8 @@
             "owner": "jnhwkim",
             "repo": "ban-vqa",
             "stars": 548
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6401,7 +6824,8 @@
             "owner": "akanimax",
             "repo": "T2F",
             "stars": 546
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6415,8 +6839,9 @@
             "last_commit": "2021-11-20T23:21:48Z",
             "owner": "rosinality",
             "repo": "glow-pytorch",
-            "stars": 544
-          }
+            "stars": 545
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6431,7 +6856,8 @@
             "owner": "castorini",
             "repo": "honk",
             "stars": 527
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6446,7 +6872,8 @@
             "owner": "chaoyuaw",
             "repo": "pytorch-coviar",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6461,7 +6888,8 @@
             "owner": "fartashf",
             "repo": "vsepp",
             "stars": 522
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6476,7 +6904,8 @@
             "owner": "prlz77",
             "repo": "ResNeXt.pytorch",
             "stars": 518
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6491,7 +6920,8 @@
             "owner": "eladhoffer",
             "repo": "seq2seq.pytorch",
             "stars": 518
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6506,7 +6936,8 @@
             "owner": "twtygqyy",
             "repo": "pytorch-SRResNet",
             "stars": 511
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6521,7 +6952,8 @@
             "owner": "shayneobrien",
             "repo": "generative-models",
             "stars": 503
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6536,7 +6968,8 @@
             "owner": "elbayadm",
             "repo": "attn2d",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6551,7 +6984,8 @@
             "owner": "adambielski",
             "repo": "CapsNet-pytorch",
             "stars": 494
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6566,7 +7000,8 @@
             "owner": "kaushalshetty",
             "repo": "Structured-Self-Attention",
             "stars": 492
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6581,7 +7016,8 @@
             "owner": "ajbrock",
             "repo": "SMASH",
             "stars": 491
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6596,7 +7032,8 @@
             "owner": "nv-tlabs",
             "repo": "STEAL",
             "stars": 481
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6611,7 +7048,8 @@
             "owner": "locuslab",
             "repo": "trellisnet",
             "stars": 471
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6626,7 +7064,8 @@
             "owner": "chingyaoc",
             "repo": "ggnn.pytorch",
             "stars": 468
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6641,7 +7080,8 @@
             "owner": "ikostrikov",
             "repo": "pytorch-trpo",
             "stars": 449
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6656,7 +7096,8 @@
             "owner": "mrzhu-cool",
             "repo": "pix2pix-pytorch",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6671,7 +7112,8 @@
             "owner": "ruiminshen",
             "repo": "yolo2-pytorch",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6686,7 +7128,8 @@
             "owner": "yunjey",
             "repo": "mnist-svhn-transfer",
             "stars": 439
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6701,7 +7144,8 @@
             "owner": "ericsun99",
             "repo": "Shufflenet-v2-Pytorch",
             "stars": 435
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6716,7 +7160,8 @@
             "owner": "leongatys",
             "repo": "PytorchNeuralStyleTransfer",
             "stars": 432
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6731,7 +7176,8 @@
             "owner": "hungtuchen",
             "repo": "pytorch-dqn",
             "stars": 430
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6746,7 +7192,8 @@
             "owner": "abhiskk",
             "repo": "fast-neural-style",
             "stars": 428
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6761,7 +7208,8 @@
             "owner": "Lotayou",
             "repo": "densebody_pytorch",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6776,7 +7224,8 @@
             "owner": "1zb",
             "repo": "deformable-convolution-pytorch",
             "stars": 409
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6791,7 +7240,8 @@
             "owner": "facebookresearch",
             "repo": "GradientEpisodicMemory",
             "stars": 408
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6806,7 +7256,8 @@
             "owner": "benedekrozemberczki",
             "repo": "MixHop-and-N-GCN",
             "stars": 406
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6821,7 +7272,8 @@
             "owner": "benedekrozemberczki",
             "repo": "MixHop-and-N-GCN",
             "stars": 406
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6836,7 +7288,8 @@
             "owner": "mkocabas",
             "repo": "CoordConv-pytorch",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6851,7 +7304,8 @@
             "owner": "facebookresearch",
             "repo": "deepfloat",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6866,7 +7320,8 @@
             "owner": "hitvoice",
             "repo": "DrQA",
             "stars": 400
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6881,7 +7336,8 @@
             "owner": "jakezhaojb",
             "repo": "ARAE",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6896,7 +7352,8 @@
             "owner": "jhjacobsen",
             "repo": "pytorch-i-revnet",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6911,7 +7368,8 @@
             "owner": "layumi",
             "repo": "Seg-Uncertainty",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6926,7 +7384,8 @@
             "owner": "bodokaiser",
             "repo": "piwise",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6941,7 +7400,8 @@
             "owner": "BoyuanJiang",
             "repo": "context_encoder_pytorch",
             "stars": 376
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6956,7 +7416,8 @@
             "owner": "benedekrozemberczki",
             "repo": "APPNP",
             "stars": 374
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6971,7 +7432,8 @@
             "owner": "ibalazevic",
             "repo": "TuckER",
             "stars": 369
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -6986,7 +7448,8 @@
             "owner": "irhum",
             "repo": "R2Plus1D-PyTorch",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7001,7 +7464,8 @@
             "owner": "kefirski",
             "repo": "pytorch_RVAE",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7016,7 +7480,8 @@
             "owner": "minqi",
             "repo": "learning-to-communicate-pytorch",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7031,7 +7496,8 @@
             "owner": "atgambardella",
             "repo": "pytorch-es",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7046,7 +7512,8 @@
             "owner": "truskovskiyk",
             "repo": "nima.pytorch",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7061,7 +7528,8 @@
             "owner": "ixaxaar",
             "repo": "pytorch-dnc",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7076,7 +7544,8 @@
             "owner": "davidmascharka",
             "repo": "tbd-nets",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7091,7 +7560,8 @@
             "owner": "xternalz",
             "repo": "WideResNet-pytorch",
             "stars": 346
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7106,7 +7576,8 @@
             "owner": "henry9zhr",
             "repo": "QANet-pytorch",
             "stars": 342
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7121,7 +7592,8 @@
             "owner": "priba",
             "repo": "nmp_qc",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7136,7 +7608,8 @@
             "owner": "jacobgil",
             "repo": "pytorch-explain-black-box",
             "stars": 335
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7151,7 +7624,8 @@
             "owner": "benedekrozemberczki",
             "repo": "AttentionWalk",
             "stars": 326
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7166,7 +7640,8 @@
             "owner": "wohlert",
             "repo": "generative-query-network-pytorch",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7181,7 +7656,8 @@
             "owner": "ptrblck",
             "repo": "prog_gans_pytorch_inference",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7196,7 +7672,8 @@
             "owner": "chenxi116",
             "repo": "PNASNet.pytorch",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7211,7 +7688,8 @@
             "owner": "tomrunia",
             "repo": "PyTorchWavelets",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7226,7 +7704,8 @@
             "owner": "Stonesjtu",
             "repo": "Pytorch-NCE",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7241,7 +7720,8 @@
             "owner": "kentsommer",
             "repo": "pytorch-value-iteration-networks",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7256,7 +7736,8 @@
             "owner": "ikostrikov",
             "repo": "pytorch-meta-optimizer",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7271,7 +7752,8 @@
             "owner": "zsef123",
             "repo": "EfficientNets-PyTorch",
             "stars": 314
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7286,7 +7768,8 @@
             "owner": "rainofmine",
             "repo": "Face_Attention_Network",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7301,7 +7784,8 @@
             "owner": "ikostrikov",
             "repo": "pytorch-ddpg-naf",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7316,7 +7800,8 @@
             "owner": "r9y9",
             "repo": "tacotron_pytorch",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7331,7 +7816,8 @@
             "owner": "alibaba-edu",
             "repo": "simple-effective-text-matching-pytorch",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7346,7 +7832,8 @@
             "owner": "c0nn3r",
             "repo": "RetinaNet",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7361,7 +7848,8 @@
             "owner": "theeluwin",
             "repo": "pytorch-sgns",
             "stars": 301
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7376,7 +7864,8 @@
             "owner": "Eric-Wallace",
             "repo": "universal-triggers",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7391,7 +7880,8 @@
             "owner": "edouardoyallon",
             "repo": "pyscatwave",
             "stars": 295
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7406,7 +7896,8 @@
             "owner": "deepsound-project",
             "repo": "samplernn-pytorch",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7421,7 +7912,8 @@
             "owner": "ksw0306",
             "repo": "ClariNet",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7436,7 +7928,8 @@
             "owner": "emited",
             "repo": "VariationalRecurrentNeuralNetwork",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7451,7 +7944,8 @@
             "owner": "xbresson",
             "repo": "spectral_graph_convnets",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7466,7 +7960,8 @@
             "owner": "DmitryUlyanov",
             "repo": "AGE",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7481,7 +7976,8 @@
             "owner": "JianGoForIt",
             "repo": "YellowFin_Pytorch",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7496,7 +7992,8 @@
             "owner": "jingweiz",
             "repo": "pytorch-dnc",
             "stars": 279
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7511,7 +8008,8 @@
             "owner": "benedekrozemberczki",
             "repo": "SGCN",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7526,7 +8024,8 @@
             "owner": "benedekrozemberczki",
             "repo": "GAM",
             "stars": 276
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7541,7 +8040,8 @@
             "owner": "salesforce",
             "repo": "nonauto-nmt",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7556,7 +8056,8 @@
             "owner": "dyhan0920",
             "repo": "PyramidNet-PyTorch",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7571,7 +8072,8 @@
             "owner": "gitabcworld",
             "repo": "FewShotLearning",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7586,7 +8088,8 @@
             "owner": "ahmedbesbes",
             "repo": "character-based-cnn",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7601,7 +8104,8 @@
             "owner": "moskomule",
             "repo": "ewc.pytorch",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7616,7 +8120,8 @@
             "owner": "carpedm20",
             "repo": "BEGAN-pytorch",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7631,7 +8136,8 @@
             "owner": "gdlg",
             "repo": "pytorch_compact_bilinear_pooling",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7646,7 +8152,8 @@
             "owner": "dragen1860",
             "repo": "LearningToCompare-Pytorch",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7661,7 +8168,8 @@
             "owner": "L0SG",
             "repo": "relational-rnn-pytorch",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7676,7 +8184,8 @@
             "owner": "arunmallya",
             "repo": "packnet",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7691,7 +8200,8 @@
             "owner": "leviswind",
             "repo": "pytorch-transformer",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7706,7 +8216,8 @@
             "owner": "SSARCandy",
             "repo": "DeepCORAL",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7721,7 +8232,8 @@
             "owner": "devendrachaplot",
             "repo": "DeepRL-Grounding",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7736,7 +8248,8 @@
             "owner": "clcarwin",
             "repo": "SFD_pytorch",
             "stars": 232
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7751,7 +8264,8 @@
             "owner": "locuslab",
             "repo": "e2e-model-learning",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7766,7 +8280,8 @@
             "owner": "atiyo",
             "repo": "deep_image_prior",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7781,7 +8296,8 @@
             "owner": "huguyuehuhu",
             "repo": "HCN-pytorch",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7796,7 +8312,8 @@
             "owner": "zuoxingdong",
             "repo": "VIN_PyTorch_Visdom",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7811,7 +8328,8 @@
             "owner": "eth-sri",
             "repo": "diffai",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7826,7 +8344,8 @@
             "owner": "ZhouYanzhao",
             "repo": "ORN",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7841,7 +8360,8 @@
             "owner": "rahulkidambi",
             "repo": "AccSGD",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7856,7 +8376,8 @@
             "owner": "jhayes14",
             "repo": "adversarial-patch",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7871,7 +8392,8 @@
             "owner": "shahsohil",
             "repo": "DCC",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7886,7 +8408,8 @@
             "owner": "benedekrozemberczki",
             "repo": "Splitter",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7901,7 +8424,8 @@
             "owner": "ajbrock",
             "repo": "FreezeOut",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7916,7 +8440,8 @@
             "owner": "zalandoresearch",
             "repo": "pytorch-dilated-rnn",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7931,7 +8456,8 @@
             "owner": "benedekrozemberczki",
             "repo": "SEAL-CI",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7946,7 +8472,8 @@
             "owner": "AaltoVision",
             "repo": "DGC-Net",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7961,7 +8488,8 @@
             "owner": "npuichigo",
             "repo": "waveglow",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7976,7 +8504,8 @@
             "owner": "jacobgil",
             "repo": "pytorch-zssr",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -7991,7 +8520,8 @@
             "owner": "ShiyuLiang",
             "repo": "odin-pytorch",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8006,7 +8536,8 @@
             "owner": "awni",
             "repo": "transducer",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8021,7 +8552,8 @@
             "owner": "potterhsu",
             "repo": "SVHNClassifier-PyTorch",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8036,7 +8568,8 @@
             "owner": "Wizaron",
             "repo": "deep-forecast-pytorch",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8051,7 +8584,8 @@
             "owner": "jt827859032",
             "repo": "DRRN-pytorch",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8066,7 +8600,8 @@
             "owner": "fanglanting",
             "repo": "skip-gram-pytorch",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8081,7 +8616,8 @@
             "owner": "alexis-jacq",
             "repo": "Pytorch-Sketch-RNN",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8096,7 +8632,8 @@
             "owner": "TianhongDai",
             "repo": "integrated-gradient-pytorch",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8111,7 +8648,8 @@
             "owner": "thnkim",
             "repo": "OpenFacePytorch",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8126,7 +8664,8 @@
             "owner": "DeepInsight-PCALab",
             "repo": "CompactBilinearPooling-Pytorch",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8141,7 +8680,8 @@
             "owner": "snap-stanford",
             "repo": "distance-encoding",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8156,7 +8696,8 @@
             "owner": "Ben-Louis",
             "repo": "Deep-Image-Analogy-PyTorch",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8171,7 +8712,8 @@
             "owner": "alexis-jacq",
             "repo": "Pytorch-DPPO",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8186,7 +8728,8 @@
             "owner": "andreasveit",
             "repo": "convnet-aig",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8201,7 +8744,8 @@
             "owner": "arunmallya",
             "repo": "piggyback",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8216,7 +8760,8 @@
             "owner": "stormraiser",
             "repo": "GAN-weight-norm",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8231,7 +8776,8 @@
             "owner": "0xku",
             "repo": "information-retrieval",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8246,7 +8792,8 @@
             "owner": "jmhessel",
             "repo": "fmpytorch",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8261,7 +8808,8 @@
             "owner": "ducha-aiki",
             "repo": "pytorch-sift",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8276,7 +8824,8 @@
             "owner": "pkmr06",
             "repo": "pytorch-smoothgrad",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8291,7 +8840,8 @@
             "owner": "ahirner",
             "repo": "pytorch-retraining",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8306,7 +8856,8 @@
             "owner": "mgsalem",
             "repo": "visual-interaction-networks-pytorch",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8321,7 +8872,8 @@
             "owner": "markdtw",
             "repo": "vqa-winner-cvprw-2017",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8336,7 +8888,8 @@
             "owner": "davexpro",
             "repo": "pytorch-pose-estimation",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8351,7 +8904,8 @@
             "owner": "yunlongdong",
             "repo": "FCN-pytorch",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8366,7 +8920,8 @@
             "owner": "spro",
             "repo": "pytorch-seq2seq-intent-parsing",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8381,7 +8936,8 @@
             "owner": "eladhoffer",
             "repo": "bigBatch",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8396,7 +8952,8 @@
             "owner": "ruidan",
             "repo": "Aspect-level-sentiment",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8411,7 +8968,8 @@
             "owner": "viking-sudo-rm",
             "repo": "StackNN",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8426,7 +8984,8 @@
             "owner": "woozzu",
             "repo": "dong_iccv_2017",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8441,7 +9000,8 @@
             "owner": "geyang",
             "repo": "deep-auto-punctuation",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8456,7 +9016,8 @@
             "owner": "higgsfield",
             "repo": "interaction_network_pytorch",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8471,7 +9032,8 @@
             "owner": "BayesWatch",
             "repo": "pytorch-prunes",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8486,7 +9048,8 @@
             "owner": "alexis-jacq",
             "repo": "Pytorch-Tutorials",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8501,7 +9064,8 @@
             "owner": "khanhptnk",
             "repo": "bandit-nmt",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8515,8 +9079,9 @@
             "last_commit": "2017-11-05T10:32:22Z",
             "owner": "gram-ai",
             "repo": "radio-transformer-networks",
-            "stars": 133
-          }
+            "stars": 132
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8531,7 +9096,8 @@
             "owner": "akolishchak",
             "repo": "doom-net-pytorch",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8546,7 +9112,8 @@
             "owner": "zalandoresearch",
             "repo": "famos",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8561,7 +9128,8 @@
             "owner": "eladhoffer",
             "repo": "captionGen",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8576,7 +9144,8 @@
             "owner": "szagoruyko",
             "repo": "binary-wide-resnet",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8591,7 +9160,8 @@
             "owner": "leehomyc",
             "repo": "mixup_pytorch",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8606,7 +9176,8 @@
             "owner": "kefirski",
             "repo": "pytorch_NEG_loss",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8621,7 +9192,8 @@
             "owner": "ClementPinard",
             "repo": "DepthNet",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8636,7 +9208,8 @@
             "owner": "rdspring1",
             "repo": "PyTorch_GBW_LM",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8651,7 +9224,8 @@
             "owner": "wlwkgus",
             "repo": "NoisyNaturalGradient",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8666,7 +9240,8 @@
             "owner": "tneumann",
             "repo": "minimal_glo",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8681,7 +9256,8 @@
             "owner": "wxywhu",
             "repo": "SRDenseNet-pytorch",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8696,7 +9272,8 @@
             "owner": "andrewliao11",
             "repo": "dni.pytorch",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8711,7 +9288,8 @@
             "owner": "lucasjinreal",
             "repo": "pytorch_image_classifier",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8726,7 +9304,8 @@
             "owner": "onlytailei",
             "repo": "A3C-PyTorch",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8741,7 +9320,8 @@
             "owner": "alecwangcq",
             "repo": "EigenDamage-Pytorch",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8756,7 +9336,8 @@
             "owner": "lancopku",
             "repo": "meProp",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8771,7 +9352,8 @@
             "owner": "anuragranj",
             "repo": "back2future.pytorch",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8786,7 +9368,8 @@
             "owner": "HarshTrivedi",
             "repo": "nmn-pytorch",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8801,7 +9384,8 @@
             "owner": "NVIDIA",
             "repo": "unsupervised-video-interpolation",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8816,7 +9400,8 @@
             "owner": "kdexd",
             "repo": "lang-emerge-parlai",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8831,7 +9416,8 @@
             "owner": "duc0",
             "repo": "deep-dream-in-pytorch",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8846,7 +9432,8 @@
             "owner": "alexis-jacq",
             "repo": "LOLA_DiCE",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8861,7 +9448,8 @@
             "owner": "senya-ashukha",
             "repo": "quantile-regression-dqn-pytorch",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8876,7 +9464,8 @@
             "owner": "aosokin",
             "repo": "biogans",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8891,7 +9480,8 @@
             "owner": "floringogianu",
             "repo": "categorical-dqn",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8906,7 +9496,8 @@
             "owner": "cxhernandez",
             "repo": "molencoder",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8921,7 +9512,8 @@
             "owner": "jmtomczak",
             "repo": "vae_vpflows",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8936,7 +9528,8 @@
             "owner": "jmtomczak",
             "repo": "vae_vpflows",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8951,7 +9544,8 @@
             "owner": "ypxie",
             "repo": "pytorch-NeuCom",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8966,7 +9560,8 @@
             "owner": "gsp-27",
             "repo": "pytorch_Squeezenet",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8981,7 +9576,8 @@
             "owner": "orobix",
             "repo": "Visual-Feature-Attribution-Using-Wasserstein-GANs-Pytorch",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -8996,7 +9592,8 @@
             "owner": "mhubii",
             "repo": "ppo_libtorch",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9011,7 +9608,8 @@
             "owner": "facebookresearch",
             "repo": "translagent",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9026,7 +9624,8 @@
             "owner": "bengxy",
             "repo": "FastNeuralStyle",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9041,7 +9640,8 @@
             "owner": "erogol",
             "repo": "FFTNet",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9056,7 +9656,8 @@
             "owner": "edouardoyallon",
             "repo": "scalingscattering",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9071,7 +9672,8 @@
             "owner": "onlytailei",
             "repo": "Value-Iteration-Networks-PyTorch",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9086,7 +9688,8 @@
             "owner": "kefirski",
             "repo": "pytorch_TDNN",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9101,7 +9704,8 @@
             "owner": "kefirski",
             "repo": "pytorch_Highway",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9116,7 +9720,8 @@
             "owner": "moskomule",
             "repo": "shampoo.pytorch",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9131,7 +9736,8 @@
             "owner": "subeeshvasu",
             "repo": "2018_subeesh_epsr_eccvw",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9146,7 +9752,8 @@
             "owner": "Alexander-H-Liu",
             "repo": "MalConv-Pytorch",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9161,7 +9768,8 @@
             "owner": "benedekrozemberczki",
             "repo": "SINE",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9176,7 +9784,8 @@
             "owner": "alykhantejani",
             "repo": "nninit",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9191,7 +9800,8 @@
             "owner": "kimhc6028",
             "repo": "forward-thinking-pytorch",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9206,7 +9816,8 @@
             "owner": "Blade6570",
             "repo": "PhotographicImageSynthesiswithCascadedRefinementNetworks-Pytorch",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9221,7 +9832,8 @@
             "owner": "wmvanvliet",
             "repo": "pytorch_hmax",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9236,7 +9848,8 @@
             "owner": "utkuozbulak",
             "repo": "adaptive-segmentation-mask-attack",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9251,7 +9864,8 @@
             "owner": "emited",
             "repo": "flow",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9266,7 +9880,8 @@
             "owner": "benedekrozemberczki",
             "repo": "PDN",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9281,7 +9896,8 @@
             "owner": "Wizaron",
             "repo": "binary-stochastic-neurons",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9296,7 +9912,8 @@
             "owner": "michaelklachko",
             "repo": "pnn.pytorch",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9311,7 +9928,8 @@
             "owner": "c0nn3r",
             "repo": "pytorch_highway_networks",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9326,7 +9944,8 @@
             "owner": "neuralix",
             "repo": "google_evolution",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9341,7 +9960,8 @@
             "owner": "utiasSTARS",
             "repo": "cat-net",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9356,7 +9976,8 @@
             "owner": "jolibrain",
             "repo": "fluidnet_cxx",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9371,7 +9992,8 @@
             "owner": "sujithv28",
             "repo": "Deep-Leafsnap",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9386,7 +10008,8 @@
             "owner": "elanmart",
             "repo": "psmm",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9401,7 +10024,8 @@
             "owner": "kefirski",
             "repo": "bytenet",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9416,7 +10040,8 @@
             "owner": "Wizaron",
             "repo": "reseg-pytorch",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9431,7 +10056,8 @@
             "owner": "demelin",
             "repo": "Noise-Contrastive-Estimation-NCE-for-pyTorch",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9446,7 +10072,8 @@
             "owner": "ethanluoyc",
             "repo": "e2c-pytorch",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9461,7 +10088,8 @@
             "owner": "tfrerix",
             "repo": "proxprop",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9476,7 +10104,8 @@
             "owner": "artix41",
             "repo": "AVO-pytorch",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9491,7 +10120,8 @@
             "owner": "jalexvig",
             "repo": "associative_compression_networks",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9506,7 +10136,8 @@
             "owner": "matthew-hirn",
             "repo": "magnet",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9521,7 +10152,8 @@
             "owner": "rarilurelo",
             "repo": "pytorch_a3c",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9536,7 +10168,8 @@
             "owner": "tymokvo",
             "repo": "AEGeAN",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9551,7 +10184,8 @@
             "owner": "moskomule",
             "repo": "eve.pytorch",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9566,7 +10200,8 @@
             "owner": "baldassarreFe",
             "repo": "zalando-pytorch",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9581,7 +10216,8 @@
             "owner": "Orcuslc",
             "repo": "OrthNet",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9596,7 +10232,8 @@
             "owner": "cranmer",
             "repo": "poisson-convolution-sum",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9611,7 +10248,8 @@
             "owner": "SherylHYX",
             "repo": "SSSNET_Signed_Clustering",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9626,7 +10264,8 @@
             "owner": "rachtsingh",
             "repo": "lgamma",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9641,7 +10280,8 @@
             "owner": "xternalz",
             "repo": "SDPoint",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9656,7 +10296,8 @@
             "owner": "joel-huang",
             "repo": "zeroshot-capsnet-pytorch",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9671,7 +10312,8 @@
             "owner": "tbox98",
             "repo": "freegrad",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9686,7 +10328,8 @@
             "owner": "mjacar",
             "repo": "pytorch-nec",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         }
       ],
       "title": "Paper implementations"
@@ -9706,8 +10349,9 @@
             "last_commit": "2026-07-22T04:42:11Z",
             "owner": "ritchieng",
             "repo": "the-incredible-pytorch",
-            "stars": 12634
-          }
+            "stars": 12636
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9721,8 +10365,9 @@
             "last_commit": "2026-08-24T11:05:23Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8459
-          }
+            "stars": 8461
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9737,7 +10382,8 @@
             "owner": "wiseodd",
             "repo": "generative-models",
             "stars": 7494
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9751,8 +10397,9 @@
             "last_commit": "2026-08-23T16:46:54Z",
             "owner": "LaurentMazare",
             "repo": "tch-rs",
-            "stars": 5479
-          }
+            "stars": 5480
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9767,7 +10414,8 @@
             "owner": "victoresque",
             "repo": "pytorch-template",
             "stars": 5119
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9782,7 +10430,8 @@
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
             "stars": 4901
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9797,7 +10446,8 @@
             "owner": "junxiaosong",
             "repo": "AlphaZero_Gomoku",
             "stars": 3625
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9812,7 +10462,8 @@
             "owner": "ml-tooling",
             "repo": "ml-workspace",
             "stars": 3544
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9827,7 +10478,8 @@
             "owner": "karanchahal",
             "repo": "DoodleMaster",
             "stars": 2408
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9842,7 +10494,8 @@
             "owner": "IgorSusmelj",
             "repo": "pytorch-styleguide",
             "stars": 2017
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9857,7 +10510,8 @@
             "owner": "hasktorch",
             "repo": "hasktorch",
             "stars": 1211
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9872,7 +10526,8 @@
             "owner": "ptrblck",
             "repo": "pytorch_misc",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9887,7 +10542,8 @@
             "owner": "t-vi",
             "repo": "pytorch-tvmisc",
             "stars": 475
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9902,7 +10558,8 @@
             "owner": "sinkingsugar",
             "repo": "nimtorch",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9917,7 +10574,8 @@
             "owner": "LaurentMazare",
             "repo": "ocaml-torch",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9932,7 +10590,8 @@
             "owner": "peterjc123",
             "repo": "pytorch-scripts",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9947,7 +10606,8 @@
             "owner": "mratsim",
             "repo": "Amazon-Forest-Computer-Vision",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9962,7 +10622,8 @@
             "owner": "arnas",
             "repo": "awesome-pytorch-scholarship",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9977,7 +10638,8 @@
             "owner": "tugstugi",
             "repo": "pytorch-saltnet",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -9992,7 +10654,8 @@
             "owner": "mmirman",
             "repo": "MentisOculi",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10007,7 +10670,8 @@
             "owner": "lucasjinreal",
             "repo": "pytorch_chatbot",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10022,7 +10686,8 @@
             "owner": "Wizaron",
             "repo": "pytorch-cpp-inference",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10037,7 +10702,8 @@
             "owner": "kendricktan",
             "repo": "drawlikebobross",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10052,7 +10718,8 @@
             "owner": "pytorch",
             "repo": "extension-script",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10067,7 +10734,8 @@
             "owner": "svishnu88",
             "repo": "DLwithPyTorch",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10082,7 +10750,8 @@
             "owner": "zccyman",
             "repo": "pytorch-inference",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10097,7 +10766,8 @@
             "owner": "andrewliao11",
             "repo": "pytorch-a3c-mujoco",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10112,7 +10782,8 @@
             "owner": "jalola",
             "repo": "compare-tensorflow-pytorch",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10127,7 +10798,8 @@
             "owner": "Kaixhin",
             "repo": "malmo-challenge",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10142,7 +10814,8 @@
             "owner": "notkarol",
             "repo": "derplearning",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10157,7 +10830,8 @@
             "owner": "jtoy",
             "repo": "sketchnet",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         },
         {
           "node_type": "item",
@@ -10172,14 +10846,15 @@
             "owner": "interesaaat",
             "repo": "TorchSharp",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
         }
       ],
       "title": "Pytorch elsewhere"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:11:41.749Z",
+    "last_updated": "2026-08-28T17:11:46.641Z",
     "original_repository_info": {
       "archived": false,
       "id": 83579167,
@@ -10187,7 +10862,7 @@
       "last_commit": "2026-02-01T07:01:10Z",
       "owner": "bharathgs",
       "repo": "Awesome-pytorch-list",
-      "stars": 16653
+      "stars": 16656
     },
     "original_repository_sha": "8b9be0839f420b663adb7025281d908d6fba0996",
     "enhanced_repository": "enhansome/enhansome-Awesome-pytorch-list",
