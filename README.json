@@ -44,11 +44,11 @@
                 "id": 155220641,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T11:39:49Z",
-                "open_issues": 1043,
+                "last_commit": "2026-11-02T13:13:34Z",
+                "open_issues": 1045,
                 "owner": "huggingface",
                 "repo": "transformers",
-                "stars": 168405,
+                "stars": 168444,
                 "topics": [
                   "audio",
                   "deep-learning",
@@ -85,11 +85,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T03:58:24Z",
-                "open_issues": 385,
+                "last_commit": "2026-11-02T07:03:14Z",
+                "open_issues": 388,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18669,
+                "stars": 18680,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -151,7 +151,7 @@
                 "open_issues": 196,
                 "owner": "speechbrain",
                 "repo": "speechbrain",
-                "stars": 11916,
+                "stars": 11917,
                 "topics": [
                   "asr",
                   "audio",
@@ -221,7 +221,7 @@
                 "open_issues": 36,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10744,
+                "stars": 10750,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -288,11 +288,11 @@
                 "id": 114054873,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T04:13:56Z",
-                "open_issues": 87,
+                "last_commit": "2026-11-02T12:46:41Z",
+                "open_issues": 86,
                 "owner": "espnet",
                 "repo": "espnet",
-                "stars": 10001,
+                "stars": 10004,
                 "topics": [
                   "chainer",
                   "deep-learning",
@@ -504,7 +504,7 @@
                 "id": 90321822,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-01T11:34:41Z",
+                "last_commit": "2026-11-02T11:35:21Z",
                 "open_issues": 344,
                 "owner": "pytorch",
                 "repo": "audio",
@@ -897,7 +897,7 @@
                 "open_issues": 30,
                 "owner": "vincentherrmann",
                 "repo": "pytorch-wavenet",
-                "stars": 1032,
+                "stars": 1033,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:11:46.641Z"
@@ -1216,8 +1216,8 @@
                 "id": 309782802,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T06:22:42Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-02T06:45:02Z",
+                "open_issues": 7,
                 "owner": "enochkan",
                 "repo": "torch-metrics",
                 "stars": 110,
@@ -1278,7 +1278,7 @@
                 "open_issues": 594,
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34959,
+                "stars": 34963,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:11:46.641Z"
@@ -1337,11 +1337,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-01T11:34:40Z",
-                "open_issues": 1249,
+                "last_commit": "2026-11-02T11:35:12Z",
+                "open_issues": 1250,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17982,
+                "stars": 17983,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -1365,7 +1365,7 @@
                 "open_issues": 0,
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15303,
+                "stars": 15301,
                 "topics": [
                   "augmentation",
                   "deep-learning",
@@ -1395,11 +1395,11 @@
                 "id": 145693916,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T05:07:12Z",
-                "open_issues": 140,
+                "last_commit": "2026-11-02T11:23:19Z",
+                "open_issues": 139,
                 "owner": "kornia",
                 "repo": "kornia",
-                "stars": 11574,
+                "stars": 12006,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -1432,7 +1432,7 @@
                 "open_issues": 325,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9991,
+                "stars": 9992,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:11:46.641Z"
@@ -1453,7 +1453,7 @@
                 "open_issues": 871,
                 "owner": "open-mmlab",
                 "repo": "mmsegmentation",
-                "stars": 9985,
+                "stars": 9988,
                 "topics": [
                   "deeplabv3",
                   "image-segmentation",
@@ -1507,7 +1507,7 @@
                 "open_issues": 337,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8017,
+                "stars": 8021,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -1618,7 +1618,7 @@
                 "open_issues": 658,
                 "owner": "open-mmlab",
                 "repo": "mmdetection3d",
-                "stars": 6568,
+                "stars": 6571,
                 "topics": [
                   "3d-object-detection",
                   "object-detection",
@@ -1644,7 +1644,7 @@
                 "open_issues": 318,
                 "owner": "open-mmlab",
                 "repo": "mmaction2",
-                "stars": 5189,
+                "stars": 5190,
                 "topics": [
                   "action-recognition",
                   "ava",
@@ -1684,7 +1684,7 @@
                 "open_issues": 85,
                 "owner": "timesler",
                 "repo": "facenet-pytorch",
-                "stars": 5177,
+                "stars": 5176,
                 "topics": [
                   "face-detection",
                   "face-identification",
@@ -2305,10 +2305,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T18:42:13Z",
-                "open_issues": 316,
+                "open_issues": 317,
                 "owner": "pyro-ppl",
                 "repo": "pyro",
-                "stars": 9072,
+                "stars": 9071,
                 "topics": [
                   "bayesian",
                   "bayesian-inference",
@@ -2336,10 +2336,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-28T13:10:46Z",
-                "open_issues": 247,
+                "open_issues": 249,
                 "owner": "meta-pytorch",
                 "repo": "botorch",
-                "stars": 3643,
+                "stars": 3644,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:11:46.641Z"
@@ -2531,11 +2531,11 @@
                 "id": 71932349,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T07:38:02Z",
-                "open_issues": 3711,
+                "last_commit": "2026-11-02T11:09:44Z",
+                "open_issues": 3720,
                 "owner": "ray-project",
                 "repo": "ray",
-                "stars": 44175,
+                "stars": 44182,
                 "topics": [
                   "data-science",
                   "deep-learning",
@@ -2574,10 +2574,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T08:08:36Z",
-                "open_issues": 1175,
+                "open_issues": 1196,
                 "owner": "Lightning-AI",
                 "repo": "pytorch-lightning",
-                "stars": 31434,
+                "stars": 31439,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2606,7 +2606,7 @@
                 "open_issues": 282,
                 "owner": "fastai",
                 "repo": "fastai",
-                "stars": 28255,
+                "stars": 28256,
                 "topics": [
                   "colab",
                   "deep-learning",
@@ -2636,7 +2636,7 @@
                 "open_issues": 1385,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24130,
+                "stars": 24131,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -2663,7 +2663,7 @@
                 "open_issues": 610,
                 "owner": "dmlc",
                 "repo": "dgl",
-                "stars": 14290,
+                "stars": 14291,
                 "topics": [
                   "deep-learning",
                   "graph-neural-networks"
@@ -2683,11 +2683,11 @@
                 "id": 145693916,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T05:07:12Z",
-                "open_issues": 140,
+                "last_commit": "2026-11-02T13:13:38Z",
+                "open_issues": 139,
                 "owner": "kornia",
                 "repo": "kornia",
-                "stars": 11574,
+                "stars": 12006,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -2717,10 +2717,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T16:52:45Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "huggingface",
                 "repo": "accelerate",
-                "stars": 9934,
+                "stars": 9935,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:11:46.641Z"
@@ -2790,7 +2790,7 @@
                 "open_issues": 167,
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8219,
+                "stars": 8218,
                 "topics": [
                   "efficientnet-pytorch",
                   "feature-extraction",
@@ -2987,7 +2987,7 @@
                 "open_issues": 18,
                 "owner": "NVIDIAGameWorks",
                 "repo": "kaolin",
-                "stars": 5190,
+                "stars": 5191,
                 "topics": [
                   "3d-deep-learning",
                   "artificial-intelligence",
@@ -3039,7 +3039,7 @@
                 "id": 111835796,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T20:04:26Z",
+                "last_commit": "2026-11-01T17:56:24Z",
                 "open_issues": 226,
                 "owner": "pytorch",
                 "repo": "ignite",
@@ -3125,7 +3125,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:06:34Z",
-                "open_issues": 470,
+                "open_issues": 473,
                 "owner": "cornellius-gp",
                 "repo": "gpytorch",
                 "stars": 3931,
@@ -3150,7 +3150,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T15:06:34Z",
-                "open_issues": 470,
+                "open_issues": 473,
                 "owner": "cornellius-gp",
                 "repo": "gpytorch",
                 "stars": 3931,
@@ -3199,7 +3199,7 @@
                 "open_issues": 40,
                 "owner": "POSTECH-CVLab",
                 "repo": "PyTorch-StudioGAN",
-                "stars": 3496,
+                "stars": 3495,
                 "topics": [
                   "biggan",
                   "clean-fid",
@@ -3341,7 +3341,7 @@
                 "open_issues": 139,
                 "owner": "webdataset",
                 "repo": "webdataset",
-                "stars": 3212,
+                "stars": 3213,
                 "topics": [
                   "data-augmentation",
                   "deep-learning",
@@ -3539,7 +3539,7 @@
                 "open_issues": 33,
                 "owner": "learnables",
                 "repo": "learn2learn",
-                "stars": 2893,
+                "stars": 2894,
                 "topics": [
                   "few-shot",
                   "finetuning",
@@ -3593,7 +3593,7 @@
                 "open_issues": 886,
                 "owner": "pytorch",
                 "repo": "xla",
-                "stars": 2806,
+                "stars": 2807,
                 "topics": [
                   "compiler",
                   "deep-learning",
@@ -3661,7 +3661,7 @@
                 "open_issues": 33,
                 "owner": "cvxpy",
                 "repo": "cvxpylayers",
-                "stars": 2148,
+                "stars": 2149,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:11:46.641Z"
@@ -4089,7 +4089,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T11:56:12Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "geoopt",
                 "repo": "geoopt",
                 "stars": 1103,
@@ -6609,11 +6609,11 @@
             "id": 290091948,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T17:01:15Z",
+            "last_commit": "2026-11-02T05:57:43Z",
             "open_issues": 46,
             "owner": "labmlai",
             "repo": "annotated_deep_learning_paper_implementations",
-            "stars": 67626,
+            "stars": 67644,
             "topics": [
               "attention",
               "deep-learning",
@@ -6648,7 +6648,7 @@
             "open_issues": 17,
             "owner": "huggingface",
             "repo": "pytorch-image-models",
-            "stars": 37261,
+            "stars": 37263,
             "topics": [
               "augmix",
               "convnext",
@@ -6690,7 +6690,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32520,
+            "stars": 32523,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -6737,7 +6737,7 @@
             "open_issues": 273,
             "owner": "pytorch",
             "repo": "tutorials",
-            "stars": 9401,
+            "stars": 9404,
             "topics": []
           },
           "first_seen": "2026-08-28T17:11:46.641Z"
@@ -6758,7 +6758,7 @@
             "open_issues": 29,
             "owner": "MorvanZhou",
             "repo": "PyTorch-Tutorial",
-            "stars": 8471,
+            "stars": 8472,
             "topics": [
               "autoencoder",
               "batch",
@@ -6795,11 +6795,11 @@
             "id": 241095326,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T09:59:42Z",
-            "open_issues": 416,
+            "last_commit": "2026-11-02T12:37:14Z",
+            "open_issues": 418,
             "owner": "flwrlabs",
             "repo": "flower",
-            "stars": 7193,
+            "stars": 7192,
             "topics": [
               "ai",
               "android",
@@ -6866,7 +6866,7 @@
             "open_issues": 21,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 6263,
+            "stars": 6269,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -6897,7 +6897,7 @@
             "open_issues": 7,
             "owner": "bentrevett",
             "repo": "pytorch-sentiment-analysis",
-            "stars": 4618,
+            "stars": 4617,
             "topics": [
               "bert",
               "cnn",
@@ -8194,11 +8194,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T11:39:49Z",
-            "open_issues": 1043,
+            "last_commit": "2026-11-02T13:13:34Z",
+            "open_issues": 1045,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 168405,
+            "stars": 168444,
             "topics": [
               "audio",
               "deep-learning",
@@ -8239,7 +8239,7 @@
             "open_issues": 589,
             "owner": "junyanz",
             "repo": "pytorch-CycleGAN-and-pix2pix",
-            "stars": 25268,
+            "stars": 25272,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -8293,7 +8293,7 @@
             "open_issues": 166,
             "owner": "jacobgil",
             "repo": "pytorch-grad-cam",
-            "stars": 13003,
+            "stars": 13005,
             "topics": [
               "class-activation-maps",
               "computer-vision",
@@ -8332,7 +8332,7 @@
             "open_issues": 57,
             "owner": "NVIDIA",
             "repo": "FastPhotoStyle",
-            "stars": 11173,
+            "stars": 11172,
             "topics": []
           },
           "first_seen": "2026-08-28T17:11:46.641Z"
@@ -8349,11 +8349,11 @@
             "id": 146165888,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-01T04:02:51Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-01T13:39:01Z",
+            "open_issues": 1,
             "owner": "ultralytics",
             "repo": "yolov3",
-            "stars": 10631,
+            "stars": 10630,
             "topics": [
               "computer-vision",
               "coreml",
@@ -8532,7 +8532,7 @@
             "open_issues": 247,
             "owner": "NVIDIA",
             "repo": "pix2pixHD",
-            "stars": 6925,
+            "stars": 6926,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -8605,7 +8605,7 @@
             "open_issues": 58,
             "owner": "tkipf",
             "repo": "pygcn",
-            "stars": 5399,
+            "stars": 5400,
             "topics": []
           },
           "first_seen": "2026-08-28T17:11:46.641Z"
@@ -8730,7 +8730,7 @@
             "open_issues": 20,
             "owner": "locuslab",
             "repo": "TCN",
-            "stars": 4574,
+            "stars": 4576,
             "topics": []
           },
           "first_seen": "2026-08-28T17:11:46.641Z"
@@ -8819,7 +8819,7 @@
             "open_issues": 93,
             "owner": "ikostrikov",
             "repo": "pytorch-a2c-ppo-acktr-gail",
-            "stars": 3909,
+            "stars": 3910,
             "topics": [
               "a2c",
               "acktr",
@@ -9292,7 +9292,7 @@
             "open_issues": 122,
             "owner": "pykeen",
             "repo": "pykeen",
-            "stars": 2047,
+            "stars": 2046,
             "topics": [
               "cuda",
               "deep-learning",
@@ -10803,7 +10803,7 @@
             "open_issues": 4,
             "owner": "baidu-research",
             "repo": "NCRF",
-            "stars": 760,
+            "stars": 761,
             "topics": [
               "camelyon16",
               "conditional-random-fields",
@@ -11994,31 +11994,6 @@
         },
         {
           "node_type": "item",
-          "title": "pytorch-dqn",
-          "description": "Deep Q-Learning Network in pytorch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Deep Q-Learning Network in pytorch (not actively maintained)",
-            "homepage": null,
-            "id": 83867383,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2017-11-01T02:46:24Z",
-            "open_issues": 11,
-            "owner": "hungtuchen",
-            "repo": "pytorch-dqn",
-            "stars": 430,
-            "topics": [
-              "deep-q-network",
-              "deep-reinforcement-learning",
-              "pytorch"
-            ]
-          },
-          "first_seen": "2026-08-28T17:11:46.641Z"
-        },
-        {
-          "node_type": "item",
           "title": "fast-neural-style",
           "description": "pytorch implementation of fast-neural-style, The model uses the method described in Perceptual Losses for Real-Time Style Transfer and Super-Resolution along with Instance Normalization.",
           "children": [],
@@ -12037,6 +12012,31 @@
             "topics": [
               "deep-learning",
               "neural-style",
+              "pytorch"
+            ]
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-dqn",
+          "description": "Deep Q-Learning Network in pytorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Deep Q-Learning Network in pytorch (not actively maintained)",
+            "homepage": null,
+            "id": 83867383,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2017-11-01T02:46:24Z",
+            "open_issues": 11,
+            "owner": "hungtuchen",
+            "repo": "pytorch-dqn",
+            "stars": 429,
+            "topics": [
+              "deep-q-network",
+              "deep-reinforcement-learning",
               "pytorch"
             ]
           },
@@ -12604,7 +12604,7 @@
             "open_issues": 10,
             "owner": "ixaxaar",
             "repo": "pytorch-dnc",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "differentiable-neural-computers",
               "dnc",
@@ -13399,7 +13399,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2022-11-06T21:14:04Z",
-            "open_issues": 15,
+            "open_issues": 17,
             "owner": "benedekrozemberczki",
             "repo": "GAM",
             "stars": 275,
@@ -13814,7 +13814,7 @@
             "open_issues": 2,
             "owner": "locuslab",
             "repo": "e2e-model-learning",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -14760,34 +14760,6 @@
         },
         {
           "node_type": "item",
-          "title": "pytorch-pose-estimation",
-          "description": "PyTorch Implementation of Realtime Multi-Person Pose Estimation project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PyTorch Implementation of Realtime Multi-Person Pose Estimation project.",
-            "homepage": null,
-            "id": 115385704,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2017-12-26T06:44:44Z",
-            "open_issues": 2,
-            "owner": "davexpro",
-            "repo": "pytorch-pose-estimation",
-            "stars": 159,
-            "topics": [
-              "computer-vision",
-              "cvpr-2017",
-              "deep-learning",
-              "human-pose-estimation",
-              "python3",
-              "pytorch"
-            ]
-          },
-          "first_seen": "2026-08-28T17:11:46.641Z"
-        },
-        {
-          "node_type": "item",
           "title": "FCN-pytorch-easiest",
           "description": "trying to be the most easiest and just get-to-use pytorch implementation of FCN (Fully Convolotional Networks)",
           "children": [],
@@ -14806,6 +14778,34 @@
             "topics": [
               "pytorch-implmention",
               "semantic-segmentation"
+            ]
+          },
+          "first_seen": "2026-08-28T17:11:46.641Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-pose-estimation",
+          "description": "PyTorch Implementation of Realtime Multi-Person Pose Estimation project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PyTorch Implementation of Realtime Multi-Person Pose Estimation project.",
+            "homepage": null,
+            "id": 115385704,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2017-12-26T06:44:44Z",
+            "open_issues": 2,
+            "owner": "davexpro",
+            "repo": "pytorch-pose-estimation",
+            "stars": 158,
+            "topics": [
+              "computer-vision",
+              "cvpr-2017",
+              "deep-learning",
+              "human-pose-estimation",
+              "python3",
+              "pytorch"
             ]
           },
           "first_seen": "2026-08-28T17:11:46.641Z"
@@ -17011,8 +17011,8 @@
             "id": 39144867,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-26T02:16:36Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-01T16:36:59Z",
+            "open_issues": 19,
             "owner": "jupyter",
             "repo": "docker-stacks",
             "stars": 8473,
@@ -17077,7 +17077,7 @@
             "open_issues": 279,
             "owner": "LaurentMazare",
             "repo": "tch-rs",
-            "stars": 5514,
+            "stars": 5516,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -17125,7 +17125,7 @@
             "open_issues": 164,
             "owner": "KaiyangZhou",
             "repo": "deep-person-reid",
-            "stars": 4936,
+            "stars": 4937,
             "topics": [
               "computer-vision",
               "cross-domain",
@@ -17158,7 +17158,7 @@
             "open_issues": 80,
             "owner": "junxiaosong",
             "repo": "AlphaZero_Gomoku",
-            "stars": 3634,
+            "stars": 3635,
             "topics": [
               "alphago",
               "alphago-zero",
@@ -17799,7 +17799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:43:18.973Z",
+    "last_updated": "2026-11-02T13:13:34.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.",
@@ -17811,7 +17811,7 @@
       "open_issues": 31,
       "owner": "bharathgs",
       "repo": "Awesome-pytorch-list",
-      "stars": 16730,
+      "stars": 16733,
       "topics": [
         "awesome",
         "awesome-list",
